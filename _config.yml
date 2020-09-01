@@ -62,7 +62,7 @@ author:
   bio    : "PhD candidate at Utrecht University. Working on plant biology & metagenomics of Azolla ferns and their symbiosis with cyanobacteria"
   links:
     - label: "Utrecht University page"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-university"
       url: "https://www.uu.nl/medewerkers/lwdijkhuizen/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
