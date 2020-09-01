@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Laura Dijkhuizen
 email: laura.w.dijkhuizen@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: 
   Home page of Laura Dijkhuizen; scientist in training. Working as plant biologist on the Azolla metagenome.
   PhD council Graduate School of Life Science (GSLS) Utrecht University.
 twitter_username: lauraazolla
@@ -87,6 +87,13 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _posts
   - scope:
       path: ""
@@ -98,13 +105,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 
 category_archive:
   type: liquid
