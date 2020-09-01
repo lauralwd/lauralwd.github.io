@@ -89,13 +89,6 @@ footer:
 defaults:
   # _pages
   - scope:
-      path: "pages/about"
-      type: about
-    values:
-      layout: single
-      author_profile: true
-  # _pages
-  - scope:
       path: ""
       type: pages
     values:
