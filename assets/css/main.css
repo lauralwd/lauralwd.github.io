@@ -1043,7 +1043,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .comment__avatar-wrapper { float: left; width: 60px; height: 60px; }
 @media (min-width: 64em) { .comment__avatar-wrapper { width: 100px; height: 100px; } }
 
-.comment__avatar { width: 40px; height: 40px; border-radius: 50%; }
+.comment__avatar { width: 40px; height: 40px; }
 @media (min-width: 64em) { .comment__avatar { width: 80px; height: 80px; padding: 5px; border: 1px solid #bfbfbf; } }
 
 .comment__content-wrapper { float: right; width: calc(100% - 60px); }
