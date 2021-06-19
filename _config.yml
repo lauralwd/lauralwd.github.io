@@ -17,8 +17,7 @@ title: Laura Dijkhuizen
 email: laura.w.dijkhuizen@gmail.com
 description: 
   Home page of Laura Dijkhuizen; scientist in training. Working as plant biologist on the Azolla metagenome.
-  PhD council Graduate School of Life Science (GSLS) Utrecht University.
-twitter_username: lauraazolla
+  twitter_username: lauraazolla
 github_username: lauralwd
 minimal_mistakes_skin: contrast
 search: false #search: true
@@ -27,9 +26,9 @@ search: false #search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-#permalink: /:categories/:title/
-#paginate: 5 # amount of posts to show
-#paginate_path: /page:num/
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -108,17 +107,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-# # _posts
-#  - scope:
-#      path: "_posts"
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: true
-#      share: true
-#      related: true
+ # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 #category_archive:
 #  type: liquid
