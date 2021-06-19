@@ -21,7 +21,7 @@ description:
 twitter_username: lauraazolla
 github_username: lauralwd
 minimal_mistakes_skin: contrast
-search: true
+search: false #search: true
 
 # Build settings
 markdown: kramdown
@@ -100,7 +100,6 @@ footer:
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-4628-7671"
 
-
 defaults:
   # _pages
   - scope:
@@ -110,16 +109,16 @@ defaults:
       layout: single
       author_profile: true
   # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#  - scope:
+#      path: "_posts"
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true
 
 #category_archive:
 #  type: liquid
