@@ -21,6 +21,7 @@ twitter_username: lauraazolla
 github_username: lauralwd
 minimal_mistakes_skin: contrast
 search: false #search: true
+repository: lauralwd/lauralwd.github.io
 
 # Build settings
 markdown: kramdown
