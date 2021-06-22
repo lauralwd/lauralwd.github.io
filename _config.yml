@@ -82,6 +82,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/laura_in_utrecht/"
+    - label: "Google scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=p6QyHVYAAAAJ&hl=en"
 
