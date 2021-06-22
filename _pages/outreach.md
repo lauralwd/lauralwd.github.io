@@ -19,4 +19,7 @@ I try to communicate the importance of plant biology and science in general to t
 
 
 
+{% include figure image_path="/assets/images/kennis-van-nu_interview.jpg" caption="Being interviewed for national television about the amazing fern _Azolla_"%}
+
+{% include figure image_path="/assets/images/elementary_school_breeding_lecture.jpg" caption="Teaching a class of elementary school childres about the basics heredity and plant breeding"%}
 
