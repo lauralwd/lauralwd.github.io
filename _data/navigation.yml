@@ -5,6 +5,8 @@ main:
     url: /science/
   - title: "Teaching"
     url: /teaching/
+  - title: "Management"
+    url: /management/
   - title: "Posts"
     url: /posts/
 #  - title: "Categories"
