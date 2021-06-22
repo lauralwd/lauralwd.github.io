@@ -5,6 +5,8 @@ main:
     url: /science/
   - title: "Teaching"
     url: /teaching/
+  - title: "Outreach"
+    url: /outreach/
   - title: "Management"
     url: /management/
   - title: "Posts"
