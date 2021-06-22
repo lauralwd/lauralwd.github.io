@@ -46,6 +46,18 @@ gallery-utrecht:
     image_path: /assets/photography/utrecht-5-800x800.jpg
   - url: /assets/photography/utrecht-7.jpg
     image_path: /assets/photography/utrecht-7-800x800.jpg
+
+gallery-architecture:
+  - url: /assets/photography/architecture-1.jpg
+    image_path: /assets/photography/architecture-1-800x800.jpg
+  - url: /assets/photography/architecture-2.jpg
+    image_path: /assets/photography/architecture-2-800x800.jpg
+  - url: /assets/photography/architecture-3.jpg
+    image_path: /assets/photography/architecture-3-800x800.jpg
+  - url: /assets/photography/architecture-4.jpg
+    image_path: /assets/photography/architecture-4-800x800.jpg
+  - url: /assets/photography/architecture-5.jpg
+    image_path: /assets/photography/architecture-5-800x800.jpg
 ---
 
 ## Landscapes
@@ -67,4 +79,6 @@ One of these photo's made it to the cover of nature plants when we published the
 ## Utrecht
 {% include gallery id="gallery-utrecht"  %}
 
+### Architecture
+{% include gallery id="gallery-architecture"  %}
 
