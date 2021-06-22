@@ -12,6 +12,9 @@ Whenever I can, I implement this in my teaching.
 
 Perhaps also have a look at my [outreach projects](/outreach/).
 
+{% include figure image_path="assets/images/elementary_school_breeding_lecture.jpg" caption="Teaching a class of (very young) biologists about the basics of plant breeding. "%}
+
+
 ## Assisting teacher
 Experience as an assistant teacher in courses such as 'systems biology' (1st year BSc), 'plant physiology' and 'molecular genetic research techniques' (2nd year BSc).
 
