@@ -1,6 +1,11 @@
 ---
 permalink: /about/
 title: "Laura Dijkhuizen MSc"
+gallery-fg:
+  - url: /assets/photography/fg-river.jpg
+    image_path: /assets/photography/fg-river-800x800.jpg
+  - url: /assets/photography/fg-esa.jpg
+    image_path: /assets/photography/fg-esa-800x800.jpg
 ---
 _PhD candidate plant physiology and junior teacher at the molecular plant physiology group of Utrecht University_
 
@@ -30,8 +35,8 @@ In 2021, I applied to the ESA programme, and since then, I'd love for nothing mo
 One of my hobbies I'd like to showcase here, is photography.
 I usually photograph the city of Utrecht, just because it's so photogenic and well, I live here! 
 Find out more on my [instagram page](https://instagram.com/laura_in_utrecht). 
-Additionally, I like shooting landscapes and macros of plants. 
-Some example plictures are available [here](/photograph)
+Additionaly, I like shooting landscapes and macros of plants. 
+Some example pictures are available **[here](/photography)**
 Most of the photos here are made by myself, and most photo's of me are made by my lovely girlfriend with whom I share this fun hobby.
 {: .text-justify}
 
@@ -45,6 +50,8 @@ In my Master's, a group of fellow students and I prepared and executed a two-wee
 We prepared and executed experiments in various teams, ranging from assessing vegetation metrics to catching poisonous frogs. 
 All while navigating the dense tropical jungle.
 
+
+{% include gallery id="gallery-fg" %}
 ### Diving for seagrass
 At the end of my Master's, I joined a 6-month project diving for seagrass in a Swedish fjord. 
 Here I fell for the amazing sport of dry suit diving. 
