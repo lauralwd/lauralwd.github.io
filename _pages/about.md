@@ -36,5 +36,30 @@ Most of the photos here are made by myself, and most photo's of me are made by m
 {: .text-justify}
 
 
+# Relevant experience
+
+## fieldwork
+
+### French Guyana Jungle
+In my Master's, a group of fellow students and I prepared and executed a two-week fieldwork campaign deep in the jungle of French Guyana. 
+We prepared and executed experiments in various teams, ranging from assessing vegetation metrics to catching poisonous frogs. 
+All while navigating the dense tropical jungle.
+
+### Diving for seagrass
+At the end of my Master's, I joined a 6-month project diving for seagrass in a Swedish fjord. 
+Here I fell for the amazing sport of dry suit diving. 
+As part of this project, I dove recreationally to explore sampling sites and then went there snorkelling with colleagues in my drysuit to retrieve samples. 
+Sampling entailed diving up to several meters deep with equipment, taking a big sample of the seafloor in which the seagrass had rooted, then carefully returning this to the surface. The rest of the experiment took place in the lab: with a custom-built "wave tank", we examined susceptibility to erosion of these sediment samples.
+
+## Awards
+### Ambassadorship of Biology
+For my plans to study seagrass in Sweden, the Utrecht Biologists (students) Society granted me the 'ambassadorship of biology' award.
+
+## Languages
+Besides a predisposition for British English writing, I of course speak Dutch, my mother tongue. 
+Additionally, I have learned to appreciate Swedish while living in Sweden and I try my best to maintain that skill.
+If required, I usually can find my way in German and perhaps even French, but when talking science, let's keep it to English (that's better for all of us).
+
+
 
 
