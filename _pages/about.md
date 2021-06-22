@@ -32,7 +32,9 @@ I usually photograph the city of Utrecht, just because it's so photogenic and we
 Find out more on my [instagram page](https://instagram.com/laura_in_utrecht). 
 Additionally, I like shooting landscapes and macros of plants. 
 Some example plictures are available [here](/photograph)
+Most of the photos here are made by myself, and most photo's of me are made by my lovely girlfriend with whom I share this fun hobby.
 {: .text-justify}
+
 
 
 
