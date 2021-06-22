@@ -52,7 +52,7 @@ feature_row_projects:
     alt: "The rector magnificus signs the DORA declaration"
     title: "Management"
     excerpt: "During my PhD, I have been activelly involved in several management bodies like the Graduate School of Life Sciences, and the Open Science programme both here at UU."
-    url: "/Management/"
+    url: "/management/"
     btn_label: "Read more"
   - image_path: assets/images/schotland_camera.jpg
     image_caption: "Taking a picture of the amazing Scottish landscape"
