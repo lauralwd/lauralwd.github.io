@@ -31,7 +31,6 @@ In 2021, I applied to the ESA programme, and since then, I'd love for nothing mo
 {% include figure image_path="/assets/images/urbanjungle-1.jpg" caption="Being a plant biologist, also means to have green fingers! "%}
 
 # Me besides the Science
-![](/assets/images/schotland_camera.jpg){: .align-right}
 One of my hobbies I'd like to showcase here, is photography.
 I usually photograph the city of Utrecht, just because it's so photogenic and well, I live here! 
 Find out more on my [instagram page](https://instagram.com/laura_in_utrecht). 
@@ -49,23 +48,28 @@ Most of the photos here are made by myself, and most photo's of me are made by m
 In my Master's, a group of fellow students and I prepared and executed a two-week fieldwork campaign deep in the jungle of French Guyana. 
 We prepared and executed experiments in various teams, ranging from assessing vegetation metrics to catching poisonous frogs. 
 All while navigating the dense tropical jungle.
-
+{: .text-justify}
 
 {% include gallery id="gallery-fg" %}
+
 ### Diving for seagrass
 At the end of my Master's, I joined a 6-month project diving for seagrass in a Swedish fjord. 
 Here I fell for the amazing sport of dry suit diving. 
 As part of this project, I dove recreationally to explore sampling sites and then went there snorkelling with colleagues in my drysuit to retrieve samples. 
 Sampling entailed diving up to several meters deep with equipment, taking a big sample of the seafloor in which the seagrass had rooted, then carefully returning this to the surface. The rest of the experiment took place in the lab: with a custom-built "wave tank", we examined susceptibility to erosion of these sediment samples.
+{: .text-justify}
 
 ## Awards
 ### Ambassadorship of Biology
 For my plans to study seagrass in Sweden, the Utrecht Biologists (students) Society granted me the 'ambassadorship of biology' award.
+{: .text-justify}
+![](https://ubv.info/wp-content/uploads/2016/04/Ambassadeur-van-de-biologie-2016-672x372.jpg)
 
 ## Languages
 Besides a predisposition for British English writing, I of course speak Dutch, my mother tongue. 
 Additionally, I have learned to appreciate Swedish while living in Sweden and I try my best to maintain that skill.
 If required, I usually can find my way in German and perhaps even French, but when talking science, let's keep it to English (that's better for all of us).
+{: .text-justify}
 
 
 
