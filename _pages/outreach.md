@@ -6,7 +6,7 @@ title: "Outreach"
 
 I try to communicate the importance of plant biology and science in general to the broader audience via various public engagement activities. A list of media appearances is listed at the end of this CV. My personal favourite is the local television interview of 2017.
 
- - Organising committee "ß-day"; introducing 150+ 3rd year high school students to the natural and life sciences. (2011-2014)
+ - [Organising committee "ß-day"; introducing 150+ 3rd year high school students to the natural and life sciences.](https://www.dub.uu.nl/nl/achtergrond/wat-trekt-scholieren-naar-een-b%C3%A8tastudie-en-een-b%C3%A8tabaan) (2011-2014)
  - [TV interview for local television on Azolla ferns (Dutch spoken)](https://youtu.be/OI4VV4M2-f4?t=195) (2017) 
  - [Interview for national radio station BNR (Dutch spoken)](https://www.bnr.nl/podcast/wetenschap-vandaag/10346708/utrechts-plantje-geniet-wereldwijde-faam) (2017)
  - Co-speaker at seminar about GMO en gene editing for UU allumni (2018)
