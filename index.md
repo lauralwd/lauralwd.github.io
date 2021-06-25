@@ -72,7 +72,7 @@ feature_row_projects:
     image_caption: "Fiddeling with new circuitry for my 3D printer"
     alt: "Me fiddeling with new circuitry for my 3D printer"
     title: "Technology"
-    excerpt: "If you know me just a bit, you know I like gadgets, computers and technical stuff. Here I talk more about that and share some things which may be useful to others."
+    excerpt: "Since I was a kid, I have always liked gadgets, computers and electronics. Here I talk more about 3d printing, Linux/BASH, and bioinformatics."
     url: "/technology/"
     btn_class: "btn--info"
     btn_label: "Read more"
