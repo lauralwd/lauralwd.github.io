@@ -11,7 +11,7 @@ During my work at Utrecht University, I have grown from practical assistant to c
 In my teaching practice, I find it important that academic students experience and do a certain experiment or technique, rather than just reading about it. 
 Whenever I can, I implement this in my teaching.
 {: .text-justify}
-Perhaps also have a look at my [outreach projects](/outreach/).
+Perhaps also have a look at my [outreach projects](/outreach/){: .btn .btn--info}.
 
 {% include figure image_path="assets/images/elementary_school_breeding_lecture.jpg" caption="Teaching a class of (very young) biologists about the basics of plant breeding. "%}
 
