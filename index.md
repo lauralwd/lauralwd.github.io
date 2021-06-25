@@ -52,11 +52,11 @@ feature_row_projects:
     url: "/openscience/"
     btn_class: "btn--info"
     btn_label: "Read more"
-  - image_path: assets/images/management_OS_uu-header.jpg
+  - image_path: assets/images/management_OS_uu-header-crop.jpg
     image_caption: "The rector magnificus signs the DORA declaration"
     alt: "The rector magnificus signs the DORA declaration"
     title: "Management"
-    excerpt: "As a PhD, I am actively involved in several management bodies to represent fellow PhDs. These management bodies include the Graduate School of Life Sciences and the Open Science programme, both here at UU."
+    excerpt: "I am actively involved in several management bodies to represent fellow PhDs and practice my leadership skills. These management bodies include the Graduate School of Life Sciences and the Open Science programme, both here at UU."
     url: "/management/"
     btn_class: "btn--info"
     btn_label: "Read more"
