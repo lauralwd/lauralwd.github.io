@@ -2,6 +2,7 @@
 permalink: /management/
 layout: single
 title: "Management"
+classes: "wide"
 ---
 
 ## UU Graduate School of Life Sciences PhD council
@@ -22,12 +23,16 @@ They approached me for my constructive and critical attitude and recognised my n
 Additionally, I take part in the Science Faculty Open Science implementation Team (FOST).
 This team is well connected to both the "work floor" as well as the most recent developments in Open Science and advises the faculty board in policy decisions.
 {: .text-justify}
-### List of networks
+
+### List of networks and management positions
  - PhD council environmental biology (2017-2021)
  - PhD council Graduate School of Life Sciences (2017-2021)
  - Curriculum Committee Master's programme Bioinformatics & Biocomplexity (2019 - 2022)
  - Utrecht University Open Science platform (2020 - 2022)
  - Science faculty Open Science implementation team (2020 - 2022)
+ - Research Assessment Committee for an external department (2021)
+
+
 
 
 
