@@ -19,9 +19,11 @@ Perhaps also have a look at my [outreach projects](/outreach/){: .btn .btn--info
 ## Assisting teacher
 Experience as an assistant teacher in courses such as 'systems biology' (1st year BSc), 'plant physiology' and 'molecular genetic research techniques' (2nd year BSc).
 {: .text-justify}
+
 ## Teaching
 Experience as a teacher in courses 'biology of the bio-based economy' (3rd year BSc) and 'introduction to bioinformatics for life sciences' (1st Year MSc).
 {: .text-justify}
+
 ## Course coordinator
 After being a teacher for several editions, I took it upon myself to coordinate the entire 'introduction to bioinformatics for life sciences' course. 
 As coordinator, I manage and organise a team of experts from various local institutions with whom I build one consistent course. 
@@ -29,6 +31,7 @@ Students are introduced to many subfields of bioinformatics by absolute experts.
 I guide and supervise the students during the whole course and the many hands-on exercises. 
 As coordinator, I guard cohesion between the many parts and people involved.
 {: .text-justify}
+
 ## Tutor
 Being employed as a part-time teacher, I also tutor students. 
 First, I tutor Bachelor's students from their first day of university until they finish their Bachelor's. 
