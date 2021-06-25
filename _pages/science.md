@@ -28,6 +28,8 @@ Whilst the known symbiont is by far the most abundant, multiple other microbes s
 Similar bacteria were found to be present in other species of the _Azolla_ genus.
 These groups of bacteria are known to also fix nitrogen in some symbiosis, but genomic and nitrogen isotope experiments pointed out that this is not the case here in _Azolla_.
 [Is there foul play in the leaf pocket? The metagenome of floating fern Azolla reveals endophytes that do not fix N2 but may denitrify](https://doi.org/10.1111/nph.14843)
+{: .text-justify}
+
 ![lowly abundant microbes in _Azolla_ species](https://nph.onlinelibrary.wiley.com/cms/asset/a5839007-9b9b-4a24-9145-6407ee51562f/nph14843-fig-0002-m.jpg)
 _See our publication linked above for more details_
 {: .text-justify}

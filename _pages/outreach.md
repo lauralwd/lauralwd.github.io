@@ -8,7 +8,7 @@ classes: "wide"
 I try to communicate the importance of plant biology and science in general to the broader audience via various public engagement activities. 
 These activities are all Dutch spoken or written, sorry international folks!
 A list of media appearances is listed on this webpage. My personal favourite is the local television interview of 2017 (Dutch spoken).
-
+{: .text-justify}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OI4VV4M2-f4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  - [Organising committee "ß-day"; introducing 150+ 3rd year high school students to the natural and life sciences.](https://www.dub.uu.nl/nl/achtergrond/wat-trekt-scholieren-naar-een-b%C3%A8tastudie-en-een-b%C3%A8tabaan) (2011-2014)
