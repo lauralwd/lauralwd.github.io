@@ -18,6 +18,7 @@ feature_row_about:
     excerpt: "Hi there, and welcome to my portfolio page (under construction still). I'm a PhD candidate at Utrecht University, where I study the metagenome of the fabulous fern _Azolla_! On this page, I keep track of my academic projects and some personal ones too. Have a look around, and be sure to contact me via social media or e-mail if you are curious about anything at all."
     url: "/about/"
     btn_label: "Read more about me"
+    btn_class: "btn--info"
 feature_row_projects:
   - image_path: assets/images/nijmegen_sampling.jpg
     alt: "Me sampling and making notes"
@@ -25,6 +26,7 @@ feature_row_projects:
     title: "Science"
     excerpt: "Read more about my scientific projects on the amazing fern _Azolla_. Scientific projects include metagenomics, fern physiology and phylogeny."
     url: "/science/"
+    btn_class: "btn--info"
     btn_label: "Read more"
   - image_path: /assets/images/kennis-van-nu_interview.jpg
     image_caption: "Interview for 'NTR: De kennis van Nu"
@@ -32,6 +34,7 @@ feature_row_projects:
     title: "Outreach"
     excerpt:  "The public funds my science; hence I’m a public servant. I try to help out in educative and outreach activities whenever I can to give back and communicate the science I'm involved in."
     url: "/outreach/"
+    btn_class: "btn--info"
     btn_label: "Read more"
   - image_path: assets/images/elementary_school_breeding_lecture.jpg
     alt: "Me teaching a class in the local botanical gardens"
@@ -39,6 +42,7 @@ feature_row_projects:
     title: "Teaching"
     excerpt: "Academics are teachers as well as scientists. As a PhD, I have been granted extra time to work on my teaching skills. With this time, I aim to be certified with a 'basic teaching qualification' at the end of my PhD."
     url: "/teaching/"
+    btn_class: "btn--info"
     btn_label: "Read more"
   - image_path: assets/images/oscu_symposium.jpg
     alt: "A picture I took on the Open Science Symposium of UU's Science faculty in 2019"
@@ -46,6 +50,7 @@ feature_row_projects:
     title: "Open Science"
     excerpt: "Being a young academic, I have fallen for the ways of open science. Here I document some of my attempts to make my science as open as I can."
     url: "/openscience/"
+    btn_class: "btn--info"
     btn_label: "Read more"
   - image_path: assets/images/management_OS_uu-header.jpg
     image_caption: "The rector magnificus signs the DORA declaration"
@@ -53,6 +58,7 @@ feature_row_projects:
     title: "Management"
     excerpt: "As a PhD, I am actively involved in several management bodies to represent fellow PhDs. These management bodies include the Graduate School of Life Sciences and the Open Science programme, both here at UU."
     url: "/management/"
+    btn_class: "btn--info"
     btn_label: "Read more"
   - image_path: assets/images/schotland_camera.jpg
     image_caption: "Taking a picture of the amazing Scottish landscape"
@@ -60,6 +66,7 @@ feature_row_projects:
     title: "Photography"
     excerpt: "I love photography, as an art and as a science. Here are some examples of my photos, mostly macro's of plants and landscapes of travelling."
     url: "/photography/"
+    btn_class: "btn--info"
     btn_label: "See more"
   - image_path: assets/images/3dprinter-fiddeling-1.jpg
     image_caption: "Fiddeling with new circuitry for my 3D printer"
@@ -67,6 +74,7 @@ feature_row_projects:
     title: "Technology"
     excerpt: "If you know me just a bit, you know I like gadgets, computers and technical stuff. Here I talk more about that and share some things which may be useful to others."
     url: "/technology/"
+    btn_class: "btn--info"
     btn_label: "Read more"
 
 ---
