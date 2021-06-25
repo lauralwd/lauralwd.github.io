@@ -48,7 +48,7 @@ Some example pictures are available here: [photography](/photography/){: .btn .b
 {: .text-justify}
 
 
-# fieldwork
+# Fieldwork
 {% include gallery id="gallery-river" %}
 {% include figure image_path="/assets/photography/fg-esa-400x400.jpg" caption="French Guyana space centre" %}{: .align-right}
 
