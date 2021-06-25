@@ -66,6 +66,7 @@ Here I fell for the amazing sport of dry suit diving.
 As part of this project, I dove recreationally to explore sampling sites and then went there snorkelling with colleagues in my drysuit to retrieve samples. 
 Sampling entailed diving up to several meters deep with equipment, taking a big sample of the seafloor in which the seagrass had rooted, then carefully returning this to the surface. The rest of the experiment took place in the lab: with a custom-built "wave tank", we examined susceptibility to erosion of these sediment samples.
 {: .text-justify}
+{% include figure image_path="/assets/images/dry-suit_seagrass.png" caption="Me explaining what seagrass is to the camera. This was taken in December so a dry suit was no luxury." %}
 
 # Awards
 ## Ambassadorship of Biology
