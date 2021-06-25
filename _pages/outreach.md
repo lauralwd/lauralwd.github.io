@@ -26,9 +26,6 @@ A list of media appearances is listed on this webpage. My personal favourite is 
 {% include figure image_path="/assets/images/outreach-wvdw.jpg" caption="My colleagues show our guests our favourite plant _Azolla_ through binoculars"%}
 
  - [Elementary school lecture on the principle of breeding](https://museumjeugduniversiteit.nl/collegereeksen/alle-wetenschappers-verzamelen-4/) (2019) (See photo)
-
-{% include figure image_path="/assets/images/elementary_school_breeding_lecture.jpg" caption="Teaching a class of elementary school childres about the basics heredity and plant breeding"%}
-
  - [Interview on the Amsterdam Hortus Botanicus podcast (Dutch spoken)](https://www.dehortus.nl/podcast/21-het-geheim-van-azolla/) (2020)
 
 {% include figure image_path="https://www.dehortus.nl/wp-content/uploads/2020/03/maartje_laura.jpg" caption="An interview for podcast 'podplanten'"%}
