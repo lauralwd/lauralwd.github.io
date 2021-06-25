@@ -66,17 +66,26 @@ My holidays are not complete without a camera in my bag and a couple of lenses t
 {% include gallery id="gallery-landscape" %}
 
 ## Macro's
+{% include figure image_path="https://media.springernature.com/w200/springer-static/cover-hires/journal/41477/4/7" %}{: .align-right}
 Macro photo's like these take a bit of patience to create, but are so rewarding when they succeed.
 I use a tamron 90mm macro lens, nikon d750, several small flashes and a manual slider which is mounted between my camera and my tripod.
 Using the slider, I make between 10 and 100 photo's of several focus plains, and then merge these together.
 One of these photo's made it to the cover of nature plants when we published the _Azolla filiculoides_ and _Salvinia cuculata_ genomes!
+You can see the cover [here](https://www.nature.com/nplants/volumes/4/issues/7),
+and find the paper associated with this cover [here](https://www.nature.com/articles/s41477-018-0188-8).
 {: text-wrap}
+<br>
+<br>
+<br>
 
-![nature plants cover](https://media.springernature.com/w200/springer-static/cover-hires/journal/41477/4/7){: align-right}
 
 {% include gallery id="gallery-macro" %}
 
+{% include figure image_path="/assets/photography/macro-setup-800x800.jpg" caption="My macro setup. I usually use two small flashes, a tamron 90mm and a manual sliding rail."%} 
+
+
 ## Utrecht
+Utrecht is my home town and such a lovely place to photograph. Lot's of Utrecht photo's can be found on my instagram page.
 {% include gallery id="gallery-utrecht"  %}
 
 ### Architecture
