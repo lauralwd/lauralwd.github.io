@@ -61,7 +61,7 @@ feature_row_projects:
     excerpt: "I love photography, as an art and as a science. Here are some examples of my photos, mostly macro's of plants and landscapes of travelling."
     url: "/photography/"
     btn_label: "See more"
-  - image_path: assets/images/3dprinter_disassembled.jpg
+  - image_path: assets/images/3dprinter-fiddeling-1.jpg
     image_caption: "Fiddeling with new circuitry for my 3D printer"
     alt: "Me fiddeling with new circuitry for my 3D printer"
     title: "Technology"
