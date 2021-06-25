@@ -39,5 +39,17 @@ Second, I tutor and guide students during their internships in our Azolla lab at
 These students can be bachelor students, experienced Master's students, or non-academic students.
 {: .text-justify}
 
-
+## List of course experience
+ - 1st year BSc
+   - Tutoring 1st year bachelor students
+   - Systems biology (working groups)
+ - 2nd year BSc
+   - Molecular genetic research techniques (practicals)
+   - Plant physiology (working groups)
+ - 3rd year BSc
+   - Several BSc thesis projects
+   - Biology of the biobased economy (teacher)
+ - MSc
+   - Introduction to Bioinformatics (teacher, then coordinator)
+   - Several MSc thesis projects 
 
