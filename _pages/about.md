@@ -69,7 +69,7 @@ Sampling entailed diving up to several meters deep with equipment, taking a big 
 {% include figure image_path="/assets/images/dry-suit_seagrass.png" caption="Me explaining what seagrass is to the camera. This was taken in December so a dry suit was no luxury." %}
 
 # Awards
-## Ambassadorship of Biology
+### Ambassadorship of Biology
 For my plans to study seagrass in Sweden, the Utrecht Biologists (students) Society granted me the 'ambassadorship of biology' award.
 {: .text-justify}
 ![](https://ubv.info/wp-content/uploads/2016/04/Ambassadeur-van-de-biologie-2016-672x372.jpg)
