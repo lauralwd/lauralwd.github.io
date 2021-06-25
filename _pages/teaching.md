@@ -2,6 +2,7 @@
 permalink: /teaching/
 layout: single
 title: "Teaching"
+classes: "wide"
 ---
 
 Being a junior teacher for 28% of my contract time, I stand in front of many classes.
