@@ -35,8 +35,18 @@ I use a recent guppy basecaller installed in my home directory, and the "super a
 The basecaller runs on a GeForce RTX 2060 with 6GB ram memmory. 
 The chunksize and runner settings can be optimised further, but the speed increase is already great as it is.
 
-`~/bin/ont-guppy/bin/guppy_basecaller -i ~/azolla/lambda2_fast5 -s ./test_sup --compress_fastq -x "cuda:0" -c ~/bin/ont-guppy/data/dna_r9.4.1_450bps_sup_prom.cfg --gpu_runners_per_device 2 --chunk_size 1000`
-
+```
+~/bin/ont-guppy/bin/guppy_basecaller \
+      -i <...input-folder-with-fast5-files...> \
+      -s <...output-folder...>                 \
+      --compress_fastq                         \
+      -x "cuda:0"                              \
+      -c ~/bin/ont-guppy/data/dna_r9.4.1_450bps_sup_prom.cfg \
+      --gpu_runners_per_device 2               \
+      --chunk_size 500                         \
+      --chunks_per_runner 256                  \
+      --runners_per_device 4
+```
 # Assembly
 When doing a first assembly, `flye` will do great. 
 It's very fast, and in my limited experience does a good job.
@@ -50,33 +60,57 @@ Should you?
 Flye recommends no, canu recommends yes.
 
 ## trimming and QC
+comming up
 
 ## nanopore only assembly
-
-### canu
-For assembly of nanopore only data, I use `canu`
-This command is usually my starting point for the standard controll experiment with a lambda phage:
-
-`canu -assemble -nanopore-raw /stor/sequencing_files/DNA.nanopore.lambdaphage.lambdaphage.2.1.raw.fastq.gz -d lambda/ -p lambda genomeSize=48k -p lambda1`
 
 ### flye
 A standard flye assembly commandline would like this
 
-`flye --nano-raw /stor/sequencing_files/<...yourfastq...>.fastq.gz \
+```
+flye --nano-raw /stor/sequencing_files/<...yourfastq...>.fastq.gz \
       --genome-size <genomesize like 6M or 48K or 7G>              \
-       --threads $(nproc)                                          \ 
-       --out-dir ~/<...your output directory...>
-`
+      --threads $(nproc)                                          \ 
+      --out-dir ~/<...your output directory...>
+```
 
 I recommend using all threads available like written above (provided these are not in use by someone else) and I recommend to write to the ssd.
 Your home directories are on the SSD, and there's also a `/fast` directory you could use to temporarily write stuff to.
 Just make sure you move your assembly to `/stor` afterwards, so we keep the SSD clean for everyone.
 
 
+### canu
+This command is usually my starting point for assembling with canu.
+
+```
+canu -assemble -nanopore-raw <...nanopore_sup.fastq.gz...> \
+     -d <...output_directory...>                           \
+     -p <...output_prefix...>                              \
+     genomeSize=<similar as for flye>                      
+```
+
+optionally, add parameters like so:
+
+```
+     ErrorRate=0.1                                         \
+     -minReadLength=8000                                   \
+     -minOverlapLength=4000                                \
+```
+
 ## Hybrid assembly
+My tool of preference is SPAdes.
 
 # Assembly polishing
+Likely quiver
 
 # synteny
+mummer -> circos
+
+mauve
 
 # annotatioan of prokaryotic genomes
+prokka
+
+bakta
+
+ncbi pipeline
