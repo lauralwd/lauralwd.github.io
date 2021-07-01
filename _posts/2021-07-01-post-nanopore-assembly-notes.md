@@ -3,9 +3,10 @@ title: "Post: My notes on assembling nanopore data"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
+  - technology
 tags:
   - blog
-  - technical
+  - technology
   - bioinformatics
   - Linux
   - Bash

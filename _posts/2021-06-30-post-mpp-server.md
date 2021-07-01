@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - blog
-  - technical
+  - technology
   - Linux
   - Bash
 ---
