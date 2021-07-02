@@ -35,6 +35,8 @@ Secondly, a btrfs array allows instant copy-on-write snapshotting of a subvolume
 This is nice for a local "back-up" without actually taking the double space. 
 Additionally, we put in a small GPU so we could use a GUI, but not for GPU intensive calculations per say.
 
+{% include figure image_path="https://pbs.twimg.com/media/E5OAgtvUcBUJUk8?format=jpg" caption="our server while sequencing with a oxford nanopore minion device" %}
+
 # Software
 Being a fan of the Ubuntu opperating system, and since this computer will be used by many beginners, we opted for a flavour of Ubuntu called 'BioLinux'.
 This distribution has many tools and programmes installed already.
@@ -74,6 +76,9 @@ This way, a student who is connected to our local network can reach all our bioi
 Although propperly firewalled, and secured, I consider this a relativelly vulnerable service. 
 Hence, every user has to be given access explicitly via a config on the server owned by the root user. 
 See the 'adding new users' section for the details.
+
+{% include figure image_path="assets/post_images/jupyterhub.png" caption="The JupyterHub web interface" %}
+
 
 ## R server
 Additionally, I also have an R-studio-server running. 
