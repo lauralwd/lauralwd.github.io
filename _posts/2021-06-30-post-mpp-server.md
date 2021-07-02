@@ -63,7 +63,7 @@ The entire directory should be writable by this group, and if any problems arise
 This way, any beginners only have to know how to get a conda environment running, and use the tools.
 When they are more familiar, they can make their own conda environments if they'd like to. 
 
-## jupyterhub
+## Jupyterhub
 Besides conda, the most valuable software tool used by our lab is a JupyterHub server.
 Jupyter notebooks are a great way by which we can keep track of both our code, as well as our intents and interpretations.
 Too often have the latter two been lost by students who struggle with writing the code. 
@@ -76,6 +76,8 @@ This way, a student who is connected to our local network can reach all our bioi
 Although propperly firewalled, and secured, I consider this a relativelly vulnerable service. 
 Hence, every user has to be given access explicitly via a config on the server owned by the root user. 
 See the 'adding new users' section for the details.
+
+If you're at a UU computer in our lab, find the Jupyterhub page here: [jupyterhub](https://mpp-server.science.uu.nl:8000).
 
 {% include figure image_path="assets/post_images/jupyterhub.png" caption="The JupyterHub web interface" %}
 
