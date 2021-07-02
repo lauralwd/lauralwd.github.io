@@ -141,6 +141,19 @@ optionally, add parameters like so:
 
 ## Hybrid assembly
 My tool of preference is SPAdes.
+A command to assemble Illumina first, then solve ambiguities in the graph with nanopore data looks like this:
+Parameters are tuned for our mpp server
+```
+spades -t 12           \
+       -m 60           \
+       -temp-dir /fast/spades   \
+       --pe1-1 Illumina_library1.R1.fastq.gz \
+       --pe1-2 Illumina_library1.R2.fastq.gz \
+       --pe2-1 Illumina_library2.R1.fastq.gz \
+       --pe2-2 Illumina_library2.R2.fastq.gz \
+       --nanopore your_nanopore_reads.fasta  \
+       -o SPAdes_assembly_hybrid_spades
+```
 
 ## Assembly visualisation
 The obvious answer to this would be to map the original reads with the likes of `blasr` or `minimap2` and then visualising the result in IGV or Tablet.
