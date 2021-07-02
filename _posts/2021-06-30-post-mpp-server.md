@@ -176,10 +176,11 @@ Computer load should be no higher than 12, the number of processors available.
 Rather obvious, just sit in front of the physical computer in our office.
 
 ### local
-On the local university network, you can reach the server on [mpp-server.science.uu.nl](mpp-server.science.uu.nl).
+On the local university network, you can reach the server on mpp-server.science.uu.nl.
 If you're looking for jupyter, go to [jupyterhub](https://mpp-server.science.uu.nl:8000).
-Again, several firewalls keep this page from being accessed from the world wide web. 
-Only the UU computers in our corridor can access this webpage.
+If you're looking for R, then go to [R-studio-server](http://mpp-server.science.uu.nl:8787).
+Again, several firewalls keep these pages from being accessed from the world wide web. 
+Only the UU computers in our corridor can access the server without any proxy intermediate.
 
 ### ssh
 For all other access, you can login through a proxy server with a solis-ID that is associated with the science faculty.
