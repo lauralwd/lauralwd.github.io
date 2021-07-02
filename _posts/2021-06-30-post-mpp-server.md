@@ -160,15 +160,42 @@ sudo systemctl reload-or-restart ssh.service
 
 More on how to reach the server via ssh in the 'access' section
 
-## Shared resource
+## Before running your job
+This server is a shared resource, and it can be used remotely by multiple people.
+Before running an intensive job, check if there's resources available.
+With the command `w` you can see who else is logged in via the terminal (JupyterHub is not listed here)
+```
+w
+```
+Alternativelly, check the load of the server. We have 6 physical CPU's, each devided up in two virtual ones.
+This means that in practice the load should not be highter than 12.
+If it's 13 or 14, you should be fine, but not much higher.
+check the server load with
+```
+uptime
+```
+This will give you three numbers, the load average of the last 15, 5 and 1 minute(s).
 
-check computer load and adjust accordingly
+If you're logged in via a terminal, or you started a terminal via Jupyterhub (new -> new terminal), then you can do this fancy thing
+```
+htop
+```
+This gives you an overview of the load per CPU, the RAM memmory usage, the total load, and which processes contribute to that load.
 
-`htop`
+If sufficient resources are available, let's check disk space. To check diskspace of the SSD with all our home directories do
+```
+df -h /
+```
+To do this for our RAID array with all big data files
+```
+df -h /stor
+```
+If you wonder if you're hogging any space on the SSD, just check the total size of your home directory.
+```
+du -h --max-depth=1 ~
+```
+You could always move bigger files to `/stor/` or to `/stor/archive/home`.
 
-`uptime`
-
-Computer load should be no higher than 12, the number of processors available.
 
 ## access
 
