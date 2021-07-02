@@ -142,6 +142,14 @@ optionally, add parameters like so:
 ## Hybrid assembly
 My tool of preference is SPAdes.
 
+## Assembly visualisation
+The obvious answer to this would be to map the original reads with the likes of `blasr` or `minimap2` and then visualising the result in IGV or Tablet.
+Additionally, I like to visualise the assembly graph in Bandage.
+For a canu assembly, make sure the Bandage conda environment is activated and then execute in a terminal `Bandage load ./path/to/assemblyprefix.contigs.gfa`.
+If you assembled reads from a clonal DNA extraction, or you fished out specific reads before, you may just get a circular contig with plasmid or two:
+
+{% include figure image_path="https://pbs.twimg.com/media/E5S9nsNWUAEeOxL?format=jpg" caption="Circular assembly visualised in Bandage" %}
+
 # Assembly polishing
 Likely quiver
 
