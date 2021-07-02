@@ -287,3 +287,9 @@ sudo usermod --lock old-user
 Don't forget to also remove them from ssh and JupyterHub access lists, just to keep everything neat and clean.
 
 # back-up
+I have no automated backups on this server (yes I know that's bad).
+Manual updates are made to [science.yoda.uu.nl](https://science.yoda.uu.nl).
+Login with your solis e-mail and solis password.
+
+Backing up data goes via the iRods commands. 
+The nitty gritty of irods is too much for this page, so go read the manual. ;)
