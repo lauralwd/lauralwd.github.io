@@ -9,7 +9,7 @@ toc_icon: "cog"
 
 As an academic in training, I aim to contribute to future food security by working on a highly productive plant and novel crop: _Azolla_.
 In our _Azolla_ research group, we benefit from each others' specialities; 
-I support my colleagues with a computational infrastructure, technical issues and intricacies of data analysis for example. 
+I support my colleagues with a [computational infrastructure](/blog/post-mpp-server), technical issues and intricacies of data analysis for example. 
 Additionally, I take joy in initiating a lot of our lab's outreach activities. 
 {: .text-justify}
 
