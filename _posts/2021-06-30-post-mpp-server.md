@@ -167,18 +167,65 @@ Computer load should be no higher than 12, the number of processors available.
 ## access
 
 ### physical
+Rather obvious, just sit in front of the physical computer in our office.
+
 ### local
+On the local university network, you can reach the server on [mpp-server.science.uu.nl](mpp-server.science.uu.nl).
+If you're looking for jupyter, go to [jupyterhub](https://mpp-server.science.uu.nl:8000).
+Again, several firewalls keep this page from being accessed from the world wide web. 
+Only the UU computers in our corridor can access this webpage.
+
 ### ssh
+For all other access, you can login through a proxy server with a solis-ID that is associated with the science faculty.
+The proxy server is called gemini, and is actually a decent server itself on which you may do some calculations.
+I have setup a connection to gemini via ssh config.
+To edit your config file in your home directory, do
+```
+nano ~/.ssh/config
+```
+In this file, I have setup gemini like so
+```
+Host gemini
+        User <yoursolisID>
+        Hostname gemini.science.uu.nl
+```
 
+If this works, proceed to making an ssh-key like so
+```
+ssh-keygen -f ~/.ssh/<your-computer-name>-gemini
+```
+Choose a good password.
+Then transfer your __public__ key to gemini
+```
+ssh-copy-id -i ~/.ssh/<your-computer-name>-gemini.pub gemini
+```
 
-## Shared resource
+Now edit your ssh config like so:
+```
+Host gemini
+	User <yoursolisID>
+	IdentityFile ~/.ssh/<your-computer-name>-gemini
+```
 
-### making user
-
-local access
-jupyterhub access
-ssh access
-
+To access our mpp server, you can't login with a password like you did with gemini. 
+The public key will need to be added manually to the server.
+Other than that, the steps are very similar.
+First, make a new key, but now name it `~/.ssh/<your-computer-name>-mppserver`.
+Then, add a new entry to the ssh config file like so
+```
+Host mpp
+        HostName mpp-server.science.uu.nl
+        User <your-user-name>
+        IdentityFile ~/.ssh/<your-computer-name>-mppserver
+        Compression Yes
+        ForwardX11 yes
+        LocalForward 8000 localhost:8000
+        LocalForward 8787 localhost:8787
+        ProxyCommand ssh -X -i ~/.ssh/<your-computer-name>-gemini -l <your-solis-id> gemini.science.uu.nl nc %h %p 2> /dev/null
+```
+This won't work yet. 
+Send your public key to me or whoever is administrating the server and ask them to add it to the authorised keys file.
+Also remind them that you need to be added to an ssh-access list specifically, like indicated above in the 'new user' section.
 
 ### archiving user
 
