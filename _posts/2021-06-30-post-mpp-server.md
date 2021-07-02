@@ -1,5 +1,5 @@
 ---
-title: "Post: Our humble lab server, what's inside and how to use it."
+title: "Our humble lab server: what's inside and how to use it."
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -11,10 +11,11 @@ tags:
 toc: true
 ---
 
-==== post in progress ====
+In this post, I document our lab server, how it's made, what's inside, and how to use it.
+We have used this machine for bioinformatic analyses in _Azolla_ lab and the molecular plant physiology group.
+<!--more-->
 
 # A short history
-In this post, I aim to inform anyone interested of the server I made for the _Azolla_ lab and the molecular plant physiology group.
 When we got started with NGS data and bioinformatics, I worked on a default university workstation with Ubuntu Linux installed.
 However, I quickly realised that such a default workstation was not sufficient to do our analyses with sufficient speed.
 To meet my computing needs, and those of my colleagues who would soon follow doing analyses on their own NGS data, we set out in two paths.
