@@ -71,16 +71,8 @@ Our server serves a https jupyter webpage on which users can login with their ow
 This way, a student who is connected to our local network can reach all our bioinformatics tools via the webbrowser without ever having to install any software on their own computer.
 
 Although propperly firewalled, and secured, I consider this a relativelly vulnerable service. 
-Hence, every user has to be given access explicitly via a config on the server owned by the root user.
-To edit this config, do
-
-`sudo nano /opt/jupyterhub/jupyterhub_config.py`
-
-then find the line `c.Authenticator.whitelist = {'laura','newuser'}`
-
-Add any user to this list, separated by a comma and with the user name between single quotes.
-Also, this is as good a time as any to remove any users from this list who should not have access anymore.
-Again, we're propperly firewalled but any user/password combo is a weakpoint.
+Hence, every user has to be given access explicitly via a config on the server owned by the root user. 
+See the 'adding new users' section for the details.
 
 ## R server
 Additionally, I also have an R-studio-server running. 
@@ -90,6 +82,77 @@ Users can login with the same username and password as for any service on this s
 # Maintenance
 
 # How to use
+
+## Adding new users
+Adding new users can be done in the termina, or via ubuntu settings. 
+You will need to be the admin user with the appropriate password.
+Let's say we're adding a new user called 'laura' then the command would look like so:
+In the terminal type
+```
+ sudo useradd -d /home/laura -m -s /bin/zsh -p lauras_standard_password laura
+```
+Naturally replace the password by something secure.
+Also, observe the space just before the sudo command. 
+This is not a typo, but prevents this command from being recorded in the terminal history!
+
+Because of how I organised stuff, we'll need to add our new user to the 'mpp' group.
+This way, the new user can access files made by the shared mpp user.
+```
+sudo usermod -G mpp -a laura
+```
+
+To prevent weird issues, I usually go to the server after this step and manually log in on the physical interface.
+This seems to be required before being able to use jupyterhub.
+
+### Adding new users to JupyterHub
+Adding users to jupyter hub is a bit more cumbersome.
+Jupyterhub uses the users own environment to run, so we need to make sure the IPykernel is installed and configured with an additional bash kernel.
+If that sounds like garbage to you, just follow the instructions:
+Login as the new user, either on the physical computer or via your own terminal
+```
+su laura
+```
+Now we'll install the ipykernel and the bash-kernel with the following three commands.
+```
+pip3 install ipykernel
+pip3 install bash_kernel
+python3  -m  bash_kernel.install
+```
+
+Second, we need to explicitly allow the new user to login via Jupyterhub via the main config file.
+To edit this config, do:
+
+```sudo nano /opt/jupyterhub/jupyterhub_config.py```
+
+Then find the line `c.Authenticator.whitelist = {'user1','mpp'}`. 
+Add any user to this list, separated by a comma and with the user name between single quotes.
+Also, this is as good a time as any to remove any users from this list who should not have access anymore.
+Again, we're propperly firewalled but any user/password combo is a weakpoint.
+
+Finally, the Jupyterhub service should be restarted
+```
+sudo systemctl reload-or-restart jupyterhub.service
+```
+
+### Allowing a user to login via ssh
+The final mode of loging in, and perhaps the most "dangerous" is via ssh.
+This especially comes in handy when connecting to the server from home.
+We have to be the admin user, and edit the `sshd_config` file
+```
+sudo nano /etc/ssh/sshd_config
+```
+
+Find the line `AllowUsers sjors henriette peter` etcetera.
+Now add the new user to the end of this line, separated by a space from the other names.
+This is also a perfect moment to check if anyone should be removed from this list.
+ssh access is very powerfull and should be limited to need-to-have access. 
+
+Finally, the service should be restarted
+``` 
+sudo systemctl reload-or-restart ssh.service
+```
+
+More on how to reach the server via ssh in the 'access' section
 
 ## Shared resource
 
