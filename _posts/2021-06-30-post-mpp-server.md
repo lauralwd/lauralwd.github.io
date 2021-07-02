@@ -87,7 +87,18 @@ Additionally, I also have an R-studio-server running.
 This works pretty much the same as the jupyterhub server, a webpage is served at the servers address and a specific port nr.
 Users can login with the same username and password as for any service on this server, and run R over a webpage.
 
+If you're at a UU computer in our lab, find R here: [R-studio-server](http://mpp-server.science.uu.nl:8787).
+
 # Maintenance
+Updates are install automatically, but it's good to check manually every now and then.
+As admin user, refresh the list of packages: `sudo apt update`.
+Then, just update everything: `sudo apt full-upgrade`
+Pay attention you're not removing anything critical.
+The current ubuntu version installed (Ubuntu 20.04) will be supported until April 2025.
+
+Conda packages have their own way of being updated. 
+Refer to the conda manual to update your specific conda environment.
+If you're updating the shared conda instance, make sure you are the mpp user when you do this, and make sure all of conda is owned by the mpp user: `sudo chown mpp:mpp -R /opt/miniconda'.
 
 # How to use
 
