@@ -156,7 +156,13 @@ Likely quiver
 # synteny
 mummer -> circos
 
-mauve
+## mauve
+Mauve is nice and visual, but can be a bit of a pain to run. 
+I managed in the end like so:
+I created a conda environment to install Mauve from the bioconda repository.
+Unfortunaly, Mauve didn't work still, but then I downloaded Mauve from the Darling lab [website](http://darlinglab.org/mauve/download.html) and installed it according to their instructions.
+Only when running the downloaded version of Mauve, inside the activated Mauve conda environment, did it run propperly. 
+A bit cumbersome... but it works.
 
 # annotatioan of prokaryotic genomes
 prokka
