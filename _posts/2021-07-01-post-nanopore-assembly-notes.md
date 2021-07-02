@@ -10,6 +10,7 @@ tags:
   - bioinformatics
   - Linux
   - Bash
+  - openscience
 toc: true
 ---
 
