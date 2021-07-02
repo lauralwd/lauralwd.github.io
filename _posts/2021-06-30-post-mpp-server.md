@@ -8,6 +8,7 @@ tags:
   - technology
   - Linux
   - Bash
+toc: true
 ---
 
 ==== post in progress ====
