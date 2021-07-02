@@ -13,7 +13,7 @@ tags:
 toc: true
 ---
 
-In this post, I adocument the _Azolla_ lab protocol for nanopore DNA metagenomics sequencing.
+In this post, I document the _Azolla_ lab protocol for nanopore DNA metagenomics sequencing.
 <!--more-->
 It should be updated kind-of-regularly when applicable, and may be used by future _Azolla_ lab members or anyone else interested in starting nanopore sequencing.
 # DNA extraction
@@ -25,6 +25,8 @@ Naturally, use only the best and healthiest plant material you can find to start
 The only main modification I made is grinding the plants while submerged in liquid nitrogen, rather than having a mortar in an ice bucket.
 This warrants extra care though when moving the ground plant powder to the Carlson lysis buffer. 
 If any liquid nitrogen remains in the Carlson buffer, this will explosivelly evaporate in the warm buffer.
+
+{% include figure image_path="assets/post_images/20210212_azolla_in_liquid_nitrogen.jpg" caption="_Azolla_ ferns submerged in liquid nitrogen to be grinded into powder" %}
 
 Finally, I found my DNA extractions dissolve very poorly. 
 Weeks at roomtemperature was not sufficient, and only when heating up to 50 or 60 degrees celcius I was able to get the full pellet into solution.
