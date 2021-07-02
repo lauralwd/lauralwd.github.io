@@ -284,15 +284,6 @@ As admin do:
 sudo usermod --lock old-user
 ```
 
+Don't forget to also remove them from ssh and JupyterHub access lists, just to keep everything neat and clean.
+
 # back-up
-
-
-
-
-
-
-
-
-
-
-
