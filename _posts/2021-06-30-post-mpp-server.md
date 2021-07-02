@@ -262,8 +262,16 @@ Send your public key to me or whoever is administrating the server and ask them 
 Also remind them that you need to be added to an ssh-access list specifically, like indicated above in the 'new user' section.
 
 ### archiving user
+When people leave the lab, I move their home directory to `/stor/archive/home` to free space on our main SSD drive.
+Naturally, you need to be the admin user to do this.
+Secondly, I recommend locking their accounts. 
+This doesn't remove them, but it does dissable remote or physical access.
+As admin do:
+```
+sudo usermod --lock old-user
+```
 
-### back-up
+# back-up
 
 
 
