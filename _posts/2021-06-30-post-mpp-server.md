@@ -233,8 +233,9 @@ nano ~/.ssh/config
 In this file, I have setup gemini like so
 ```
 Host gemini
-        User <yoursolisID>
         Hostname gemini.science.uu.nl
+        User <yoursolisID>
+        ForwardX11 yes
 ```
 
 If this works, proceed to making an ssh-key like so
@@ -250,8 +251,11 @@ ssh-copy-id -i ~/.ssh/<your-computer-name>-gemini.pub gemini
 Now edit your ssh config like so:
 ```
 Host gemini
+        Hostname gemini.science.uu.nl
 	User <yoursolisID>
+        ForwardX11 yes
 	IdentityFile ~/.ssh/<your-computer-name>-gemini
+        IdentitiesOnly Yes
 ```
 
 To access our mpp server, you can't login with a password like you did with gemini. 
@@ -259,20 +263,24 @@ The public key will need to be added manually to the server.
 Other than that, the steps are very similar.
 First, make a new key, but now name it `~/.ssh/<your-computer-name>-mppserver`.
 Then, add a new entry to the ssh config file like so
+
 ```
 Host mpp
         HostName mpp-server.science.uu.nl
         User <your-user-name>
-        IdentityFile ~/.ssh/<your-computer-name>-mppserver
-        Compression Yes
         ForwardX11 yes
+        IdentityFile ~/.ssh/<your-computer-name>-mppserver
+        IdentitiesOnly Yes
         LocalForward 8000 localhost:8000
         LocalForward 8787 localhost:8787
-        ProxyCommand ssh -X -i ~/.ssh/<your-computer-name>-gemini -l <your-solis-id> gemini.science.uu.nl nc %h %p 2> /dev/null
+        ProxyCommand ssh gemini nc %h %p 2> /dev/null
 ```
 This won't work yet. 
 Send your public key to me or whoever is administrating the server and ask them to add it to the authorised keys file.
 Also remind them that you need to be added to an ssh-access list specifically, like indicated above in the 'new user' section.
+
+Note that the above proxy command only works because we defined the ssh server `gemini` first.
+Also, if you're on a slow connection, consider adding `Compression Yes` to both server configs, this may speed things up slightly.
 
 ## archiving user
 When people leave the lab, I move their home directory to `/stor/archive/home` to free space on our main SSD drive.
