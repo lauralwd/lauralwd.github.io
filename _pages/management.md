@@ -30,7 +30,7 @@ This team is well connected to both the "work floor" as well as the most recent 
  - Curriculum Committee Master's programme Bioinformatics & Biocomplexity (2019 - 2022)
  - Utrecht University Open Science platform (2020 - 2022)
  - Science faculty Open Science implementation team (2020 - 2022)
- - Research Assessment Committee for an external department (2021)
+ - Research Assessment Committee for TU Delft departments Chemical Engineering and BioTechnology [link](https://www.tudelft.nl/onderzoek/onze-onderzoeksvisie/kwaliteitszorg/resultaten) (2021)
 
 
 
