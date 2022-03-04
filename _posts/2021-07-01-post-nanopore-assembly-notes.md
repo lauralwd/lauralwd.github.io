@@ -97,12 +97,23 @@ Both are installed in a conda environment, activate on the mpp-server like so
 
 `conda activate /opt/miniconda/miniconda3/envs/canu`
 
-## self correcting reads
-Should you?
-Flye recommends no, canu recommends yes.
+
+## subsampling reads
+Often I sequence whole (meta)genome DNA extractions, even though I'm not interested in host DNA.
+For assembly of a specific organism, or exclusion of a specific organism, I map reads to a reference.
+In both cases, I have used minimap with an index I made as complete as possible.
+In other words, all organisms I might expect in my dna extraction, are in that file.
+```
+minimap2 <...minimap2-index...>                \
+         <...nanopore-sequencing.fastq.gz...>  \
+         -t 12 -a                              \
+         | samtools view -@ 6 -b               \
+         > <...output.bamfile.bam...>
+```
+Then sort the bamfile, and select or discard reads mapping to your contigs of interest with `samtools`.
 
 ## trimming and QC
-comming up
+In my experience, I have been very happy with the build in trimming in the basecalling profile by nanopore.
 
 ## nanopore only assembly
 
@@ -119,7 +130,6 @@ flye --nano-raw /stor/sequencing_files/<...yourfastq...>.fastq.gz \
 I recommend using all threads available like written above (provided these are not in use by someone else) and I recommend to write to the ssd.
 Your home directories are on the SSD, and there's also a `/fast` directory you could use to temporarily write stuff to.
 Just make sure you move your assembly to `/stor` afterwards, so we keep the SSD clean for everyone.
-
 
 ### canu
 This command is usually my starting point for assembling with canu.
