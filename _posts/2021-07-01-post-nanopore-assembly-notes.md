@@ -61,7 +61,10 @@ The basecaller runs on a GeForce RTX 2060 with 6GB ram memmory.
       --gpu_runners_per_device 8               \
       --num_callers 8                          \
       --chunk_size 700                         \
-      --chunks_per_runner 512
+      --chunks_per_runner 512                  \
+      --trim_primers                           \
+      --trim_adapters                          \
+      --do_read_splitting
 ```
 
 ### guppy optimisation yielded hardly any improvement
