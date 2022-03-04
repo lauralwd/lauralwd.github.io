@@ -29,19 +29,16 @@ If any liquid nitrogen remains in the Carlson buffer, this will explosivelly eva
 
 {% include figure image_path="assets/post_images/20210212_azolla_in_liquid_nitrogen.jpg" caption="_Azolla_ ferns submerged in liquid nitrogen to be grinded into powder" %}
 
-Finally, I found my DNA extractions dissolve very poorly. 
-Weeks at roomtemperature was not sufficient, and only when heating up to 50 or 60 degrees celcius I was able to get the full pellet into solution.
-When insolution, this protocol yielded me several micrograms of DNA.
-This was enough to process in a cicrulomics short read eliminator kit.
-But poor elution of the DNA does warrant caution, perhaps some secondary metabolites or proteins are still contaminating this DNA extraction method for _Azolla_ species.
-
 # Nanopore sequencing
 Before starting a library prep, I always do a quick hardware check of the mininon device in the minknow software.
+Then, after using the high throughput library kit, prep you library and crack open your fresh flowcell.
+We often re-use flowcells, but I always do a flowcell check before sequencing.
+In the past I have forgotton to do this before priming the flowcell and loading it.
+It seemingly still works, but the flowcell check should be done with the storage fluid loaded still.
 
-Then, after using the high throughput library kit, load your flowcell according to procol instructions.
-We often re-use flowcells, always do a flowcell check before sequencing, and once you have placed it in the minion device.
-In setting up your sequencing settings, I recommend to skip basecalling, or select fast-basecalling if you wan't that information directly.
-The basecalling process is very intense, and will demand all of the servers resources. 
+In setting up your sequencing settings, I recommend to skip basecalling given our specific hardware.
+Fast basecalling on CPU works if you really want that information directly.
+This process however, is very intense and will demand all of the servers resources. 
 I prefer to have some resources available at all times and don't overload the CPUs.
 
 ## basecalling
