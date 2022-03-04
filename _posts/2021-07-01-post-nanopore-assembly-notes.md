@@ -18,7 +18,7 @@ In this post, I document the _Azolla_ lab protocol for nanopore DNA metagenomics
 <!--more-->
 It should be updated kind-of-regularly when applicable, and may be used by future _Azolla_ lab members or anyone else interested in starting nanopore sequencing.
 # DNA extraction
-For DNA extraction of _Azolla_ ferns I use a protocl from nanopore itself: "High molecular weight gDNA extracted from fever tree leaves (Cinchona pubescens)".
+For DNA extraction of _Azolla_ ferns I use a protocol from nanopore itself: "High molecular weight gDNA extracted from fever tree leaves (Cinchona pubescens)".
 I don't think I can post this protocol here online, but [this talk](https://nanoporetech.com/resource-centre/fever-tree-extracting-and-preparing-dna-cinchona-pubescens) 
 and [this preprint](https://www.biorxiv.org/content/10.1101/783159v1) should already be very informative.
 The protocol itself can be downloaded from the nanopore community website [here](https://community.nanoporetech.com/extraction_methods#plant).
