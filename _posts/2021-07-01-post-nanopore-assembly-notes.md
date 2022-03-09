@@ -57,7 +57,7 @@ The basecaller runs on a GeForce RTX 2060 with 6GB ram memmory.
       -s <...output-folder...>                 \
       --compress_fastq                         \
       -x "cuda:0"                              \
-      -c ~/bin/ont-guppy/data/dna_r9.4.1_450bps_sup_prom.cfg \
+      -c ~/bin/ont-guppy/data/dna_r9.4.1_450bps_sup.cfg \
       --gpu_runners_per_device 8               \
       --num_callers 8                          \
       --chunk_size 700                         \
