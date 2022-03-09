@@ -174,6 +174,47 @@ If you assembled reads from a clonal DNA extraction, or you fished out specific 
 
 {% include figure image_path="https://pbs.twimg.com/media/E5S9nsNWUAEeOxL?format=jpg" caption="Circular assembly visualised in Bandage" %}
 
+## Scripting
+Working with data and commandlines can make our lives a lot easier, and our science more reproducible.
+Here for example, I share a little script that I use to assemble several genomes I sequenced.
+
+```
+#!/bin/bash
+# This script takes FastQ data from the anabaena sequencing folder and assembles it with flye
+# and might do other stuff in the future
+
+# define where stuff is:
+basedir=<your working directory for these analyses>
+fqdir=<the directory containing the fastq.gz files you want to process>
+
+# get an array of our samples directly from the available sequencing files
+samples=( $(find "$fqdir" -maxdepth 1 -name '*.fastq.gz' -printf '%P\n') )
+
+# make denovo assembly dir if it doesn't exist yet
+if     [ ! -d "$basedir"/denovo ]
+then   mkdir "$basedir"/denovo
+fi
+
+# for each sample, check if it is assembled already. If not, then assemble with flye
+for   s in "${samples[@]}"
+do    name=$(echo "$s" | sed 's/\.fastq\.gz//g' )
+      if     [ ! -d "$basedir"/denovo/"$name" ]
+      then   if   [ ! $(command -v flye) ]
+             then echo 'flye is not found'
+                  exit
+             fi
+             # assemble with flye with a max assembly coverage of 40, see flye manual for details
+             flye --nano-hq "$fqdir/$s"    \
+                  --genome-size 5M         \
+                  --threads $(nproc)       \
+                  --asm-coverage 40        \
+                  --scaffold               \
+                  --out-dir "$basedir"/denovo/"$name"
+      fi
+done
+
+```
+
 # Assembly polishing
 Likely quiver
 
