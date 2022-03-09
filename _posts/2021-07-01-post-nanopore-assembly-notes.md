@@ -216,7 +216,8 @@ done
 ```
 
 # Assembly polishing
-Likely quiver
+Polishing is achieved inside of flye already, and with about 40x coverage worked extremely well in data I worked with.
+Medaka results pending...
 
 # synteny
 mummer -> circos
