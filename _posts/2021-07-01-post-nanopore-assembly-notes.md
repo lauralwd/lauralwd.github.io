@@ -113,17 +113,18 @@ minimap2 <...minimap2-index...>                \
 Then sort the bamfile, and select or discard reads mapping to your contigs of interest with `samtools`.
 
 ## trimming and QC
-In my experience, I have been very happy with the build in trimming in the basecalling profile by nanopore.
+In my experience, I have been very happy with the build-in trimming in the basecalling profile by nanopore.
 
 ## nanopore only assembly
 
 ### flye
-A standard flye assembly commandline would like this
+A standard flye assembly commandline would like this.
+Flye has given us very good results in the past, and hence it is my go-to solution for nanopore assembly these days.
 
 ```
-flye --nano-raw /stor/sequencing_files/<...yourfastq...>.fastq.gz \
+flye --nano-raw /stor/sequencing_files/<...yourfastq...>.fastq.gz  \
       --genome-size <genomesize like 6M or 48K or 7G>              \
-      --threads $(nproc)                                          \ 
+      --threads $(nproc)                                           \ 
       --out-dir ~/<...your output directory...>
 ```
 
@@ -135,9 +136,9 @@ Just make sure you move your assembly to `/stor` afterwards, so we keep the SSD 
 This command is usually my starting point for assembling with canu.
 
 ```
-canu -assemble -nanopore-raw <...nanopore_sup.fastq.gz...> \
-     -d <...output_directory...>                           \
-     -p <...output_prefix...>                              \
+canu -assemble -nanopore-raw <...nanopore_sup.fastq.gz...>  \
+     -d <...output_directory...>                            \
+     -p <...output_prefix...>                               \
      genomeSize=<similar as for flye>                      
 ```
 
