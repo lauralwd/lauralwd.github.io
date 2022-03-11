@@ -253,8 +253,99 @@ Only when running the downloaded version of Mauve, inside the activated Mauve co
 A bit cumbersome... but it works.
 
 # annotatioan of prokaryotic genomes
-prokka
+## prokka
+For annotation with prokka, I use a code like below.
+Prokka annotation has worked well the past years, but the software can be a bit of a pain to install.
+See this [conda environment](https://github.com/lauralwd/anabaena_nanopore_workflow/blob/main/envs/conda_prokka.yaml) for my instalation specs.
 
-bakta
+```
+prokka --outdir <...output.dir...>  \
+       --addgenes                   \
+       --prefix <...custom.name...> \
+       --kingdom 'Bacteria'         \
+       --cpus 0                     \
+       --rfam                       \
+       <...input.fasta...>
+```
+## bakta
+For comparison, I typically also annotate with bakta.
+Bakta needs its own conda environment, specified [here](https://github.com/lauralwd/anabaena_nanopore_workflow/blob/main/envs/conda_bakta.yaml)
+Code typically looks something like this:
 
-ncbi pipeline
+First, amrfinderplus must be setup in the BaktaDB directory.
+Assuming that directory is setup in some place defined by variable `$baktaDB`,
+I include this code in my script to make sure it's propperly installed:
+```
+if   [ ! -d "$baktaDB"/amrfinderplus-db ]
+then echo 'amrfinderplus-db is not setup correctly, doing that now'
+     amrdinamrfinder_update --database "$baktaDB"/amrfinderplus-db
+fi
+```
+Then, we move on and use bakta to annotate a genome. 
+Only use the `--complete` option if chromosomes/plasmids are actually complete.
+```
+bakta --output <...output.dir...>  \
+      --db "$baktaDB"              \
+      --prefix <...custom.name...> \
+      --complete                   \
+      --threads $(nproc)           \
+      <...input.fasta...>
+```
+
+## ncbi pipeline
+I'm quite satisfied with both prokka and bakta. 
+However, the one thing they don't do as of now, is annotate pseudogenes.
+The ncbi annotation pipeline does do that!
+More details on this later.
+
+# Variant calling
+For variant calling with nanopore data we aim to have at the very least 40x coverage, but ideally a lot more.
+In my previous work, I searched for long IN/DEL variations, depending on your definition perhaps structural variations. 
+To this end, I have used two methods.
+For SNPs and IN/DELs or smaller structural variations, I used medaka like below.
+Make sure to change the model `-m` if appropriate. 
+```
+medaka_haploid_variant -i <...your.fastqgz...>      \
+                       -r <...your.reference.fasta> \
+                       -o <...your.output.dir...>   \
+                       -t $(nproc)                  \
+                       -m r941_min_sup_variant_g507
+```
+Software details are available in this [conda environement].
+
+Large structural variations, we looked for with [sniffles](https://github.com/fritzsedlazeck/Sniffles) and read mapper [ngmlr](https://github.com/philres/ngmlr).
+These large structural variations were confirmed in a de-novo assembly as well.
+Sniffles requires ngmlr mapped bam files:
+```
+ngmlr -q <...your.fastqgz...>      \
+      -r <...your.reference.fasta> \
+      --rg-sm <...sample.name...>  \
+      -t $(nproc)                  \
+      -x ont                       \
+      -o <...output.sam...>
+
+#adapt sam performance parameters if required:
+samtools sort -@ 6 -m 9G           \
+         <...ngmlr.samfile.sam...> \
+| samtools view -b -@ 6 -h         \
+> <...output.sorted.bam...>
+
+samtools index <...ngmlr.sorted.bam...>
+rm "<...output.sam...>
+```
+
+Variant calling is done like so:
+```
+sniffles --input <...ngmlr.sorted.bam...>      \
+         --reference <...your.reference.fasta> \
+         --snf <...output.snf...>              \
+         --vcf <...output.vcf...>
+```
+
+Finally, a multi-sample vcf can be made like so:
+```
+sniffles --input <..all.snf.files...> --vcf <...your.multi-sample.vcf...>
+```
+
+A more elaborate example is available [here](https://github.com/lauralwd/anabaena_nanopore_workflow/blob/main/script.sh).
+
