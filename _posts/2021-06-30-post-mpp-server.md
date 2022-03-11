@@ -103,8 +103,8 @@ If you're updating the shared conda instance, make sure you are the mpp user whe
 # How to use
 
 ## Adding new users
-Adding new users can be done in the termina, or via ubuntu settings. 
-You will need to be the admin user with the appropriate password.
+Adding new users can be done in the terminal, or via ubuntu settings. 
+You will need to be *the admin user* with the appropriate password.
 Let's say we're adding a new user called 'laura' then the command would look like so:
 In the terminal type
 ```
