@@ -118,6 +118,19 @@ minimap2 <...minimap2-index...>                \
          > <...output.bamfile.bam...>
 ```
 Then sort the bamfile, and select or discard reads mapping to your contigs of interest with `samtools`.
+Such a command could look like this:
+
+```
+samtools view -h <...your.bamfile...> '<...your.region...>' \
+| samtools fastq                                            \
+| nice pigz --best -p $(nproc)                              \
+> <...yourselection.fasta.gz...>
+```
+In the command above we 
+1. select hits from a bam file mapping to a specific region
+2. extract the reads as fastq
+3. compress the fasta file with pigz
+4. write the fasta hits to a file
 
 ## trimming and QC
 I have been very happy with the build-in trimming in the basecalling profile by nanopore.
