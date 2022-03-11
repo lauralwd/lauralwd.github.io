@@ -66,6 +66,13 @@ The basecaller runs on a GeForce RTX 2060 with 6GB ram memmory.
       --trim_adapters                          \
       --do_read_splitting
 ```
+When working with a barcoded library, I do demultiplexing while basecalling by adding these two lines
+
+```
+      --barcode_kits EXP-NBD104                \
+      --trim_barcodes
+
+```
 
 ### guppy optimisation yielded hardly any improvement
 For the sake of efficiency, I did a few runs to see if guppy basecalling could be optimised.
