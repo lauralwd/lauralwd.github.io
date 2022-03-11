@@ -52,26 +52,25 @@ At home, I use a recent guppy basecaller installed in my home directory, and the
 The basecaller runs on a GeForce RTX 2060 with 6GB ram memmory. 
 
 ```
-~/bin/ont-guppy/bin/guppy_basecaller \
-      -i <...input-folder-with-fast5-files...> \
-      -s <...output-folder...>                 \
-      --compress_fastq                         \
-      -x "cuda:0"                              \
-      -c ~/bin/ont-guppy/data/dna_r9.4.1_450bps_sup.cfg \
-      --gpu_runners_per_device 8               \
-      --num_callers 8                          \
-      --chunk_size 700                         \
-      --chunks_per_runner 512                  \
-      --trim_primers                           \
-      --trim_adapters                          \
+~/bin/ont-guppy/bin/guppy_basecaller                     \
+      -i <...input-folder-with-fast5-files...>           \
+      -s <...output-folder...>                           \
+      --compress_fastq                                   \
+      -x "cuda:0"                                        \
+      -c ~/bin/ont-guppy/data/dna_r9.4.1_450bps_sup.cfg  \
+      --gpu_runners_per_device 8                         \
+      --num_callers 8                                    \
+      --chunk_size 700                                   \
+      --chunks_per_runner 512                            \
+      --trim_primers                                     \
+      --trim_adapters                                    \
       --do_read_splitting
 ```
 When working with a barcoded library, I do demultiplexing while basecalling by adding these two lines
 
 ```
-      --barcode_kits EXP-NBD104                \
+      --barcode_kits EXP-NBD104                         \
       --trim_barcodes
-
 ```
 
 ### guppy optimisation yielded hardly any improvement
@@ -98,12 +97,13 @@ But further than that, I can't seem to optimise the process furter, at least not
 
 # Assembly
 When doing a first assembly, `flye` will do great. 
-It's very fast, and in my limited experience does a good job.
+It's very fast, and in my experience does a very good job.
 When optimising, perhaps `canu` is also worth a try.
 Both are installed in a conda environment, activate on the mpp-server like so
 
 `conda activate /opt/miniconda/miniconda3/envs/canu`
 
+Alternativelly, see [this conda environment](https://github.com/lauralwd/anabaena_nanopore_workflow/blob/main/envs/conda_flye.yaml).
 
 ## subsampling reads
 Often I sequence whole (meta)genome DNA extractions, even though I'm not interested in host DNA.
@@ -120,7 +120,7 @@ minimap2 <...minimap2-index...>                \
 Then sort the bamfile, and select or discard reads mapping to your contigs of interest with `samtools`.
 
 ## trimming and QC
-In my experience, I have been very happy with the build-in trimming in the basecalling profile by nanopore.
+I have been very happy with the build-in trimming in the basecalling profile by nanopore.
 
 ## nanopore only assembly
 
