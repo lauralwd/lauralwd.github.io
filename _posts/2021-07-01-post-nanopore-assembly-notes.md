@@ -238,7 +238,8 @@ done
 
 # Assembly polishing
 Polishing is achieved inside of flye already, and with about 40x coverage worked extremely well in data I worked with.
-Medaka results pending...
+I have used medaka for polishing too. 
+Although medaka is made to work on pre-polished assemblies by racon, I often skip that step as also suggested in the nanopore website protocols.
 
 # synteny
 mummer -> circos
