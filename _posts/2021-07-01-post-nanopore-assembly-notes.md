@@ -197,7 +197,7 @@ If you assembled reads from a clonal DNA extraction, or you fished out specific 
 ## Scripting
 Working with data and commandlines can make our lives a lot easier, and our science more reproducible.
 Here for example, I share a little script that I use to assemble several genomes I sequenced.
-A more elaborate version of this script is available as a [GitHub Gist](https://gist.github.com/lauralwd/e9fc206a7f02cffe5e17303172867662)
+A more elaborate version of this script is available on [GitHub](https://github.com/lauralwd/anabaena_nanopore_workflow/blob/main/script.sh)
 
 ```
 #!/bin/bash
