@@ -1,5 +1,5 @@
 ---
-title: "My notes on assembling nanopore data"
+title: "My notes on processing nanopore data"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
