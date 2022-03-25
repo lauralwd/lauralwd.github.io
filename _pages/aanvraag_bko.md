@@ -62,6 +62,7 @@ naam Laura Warner Dijkhuizen
 |2017 |Interview voor BNR radio
 |2017 |TV interview voor RTV Utrecht over Azolla varens
 |2011 -- 2014 | Organisatie van de 'βeta-dag'; een introductie voor 150 3de jaars middelbare school leerlingen tot de β wetenschappen
+
 Links en details beschikbaar op [lauradijkhuizen.com/outreach](/outreach/)
 
 Zelfevaluatie
