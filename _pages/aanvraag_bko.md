@@ -387,7 +387,6 @@ en een 3,2 en 2.8 voor mijn coördinatorschap in
 2021 versie werd online gegeven als gevolg van de COVID-19 pandemie.
 
 ![](media/image11.png){width="5.859375546806649in" height="1.461461067366579in"}
---------------------------------------------------------------------------------
 
 In het verenigen van de cursus slaagde ik beter bij cursusonderdelen die
 ik zelf volledig overnam, maar niet altijd in cursusonderdelen die ik
