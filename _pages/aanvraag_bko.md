@@ -20,12 +20,8 @@ Attachments (Bijlagen) are not included here due to their size, hence links to a
 - Submission:
 - Awarded:
 
-
-Zelfevaluatie
-=============
-
 Inleiding
----------
+=============
 Onderzoek vindt plaats in allerlei instituties, maar de universiteit is
 mijns inziens bij uitstek de plaats voor kruisbestuiving tussen
 onderzoek en onderwijs. Daarom ben ik dankbaar voor de kans om deze twee
@@ -91,7 +87,7 @@ opgedaan.
 {: .text-justify}
 
 Professionele kwaliteiten
--------------------------
+=============
 > *De universitair docent is in staat om een stimulerend, activerend en positief studieklimaat te creëren, onder andere door zich enthousiast en betrokken op te stellen.*
 
 Een positief en veilig studieklimaat is enorm belangrijk; positief in de
@@ -284,7 +280,7 @@ overnam, heb ik herschreven zodat deze in CoCalc werkte.
 {: .text-justify}
 
 Vakinhoudelijke kwaliteiten
----------------------------
+=============
 > *De universitair docent is in staat om bij het vormgeven en verzorgen van het onderwijs en de selectie en ontwikkeling van onderwijsmateriaal, de actuele stand van zaken op het betreffende vakgebied te verdisconteren in relatie tot de doelen van het onderwijsonderdeel.*
 
 In mijn opvatting is de kracht van universitair onderwijs de
@@ -400,9 +396,9 @@ een toekomstige stage of baan.
 {: .text-justify}
 
 Didactische kwaliteiten
------------------------
+=============
 
-### Ontwerpen van onderwijs
+## Ontwerpen van onderwijs
 > *De universitair docent is in staat om een cursus zo in te richten dat deze past bij de aanwezige voorkennis van studenten, het doel van de cursus en de plaats van de cursus in de gehele opleiding, blijkens het gekozen materiaal en de leervormen die betrekking hebben op kennisverwerving en de activiteiten die gericht zijn op het verwerven van zowel vakgerichte als academische competenties.*
 
 Een cursus aanpassen aan de voorkennis van de student blijft een
@@ -532,7 +528,7 @@ balans tussen vrijheid voor de studenten en kwaliteitsgarantie waar een
 graduate school verplicht toe is.
 {: .text-justify}
 
-### Geven van onderwijs
+## Geven van onderwijs
 > *De universitair docent is in staat om een variatie van relevante, motiverende en onderwijskundig verantwoorde werkvormen (bijvoorbeeld werkgroep, zelfstudie, hoorcollege, practicum, enz.) en leermiddelen (bijvoorbeeld referaten, gebruik van ICT, enz.) te hanteren, waarbij de docent afwisselend verschillende docentrollen vervult, zoals die van expert tot coach.*
 
 In mijn vijf jaar PhD heb ik ervaring op mogen doen in allerlei
@@ -854,7 +850,7 @@ height="3.1805555555555554in"}
 Deze toename was voor mij een teken dat ik goed op weg was met deze
 cursus en een duidelijk signaal dat de leerdoelen behaald werden.
 
-### Toetsen en evalueren van onderwijs
+## Toetsen en evalueren van onderwijs
 > *De universitair docent is in staat om een verantwoorde keuze te maken uit de diverse toetsvormen en deze een representatieve afspiegeling te laten zijn van de cursus en een integrale toetsing van kennis en vaardigheden.*
 
 Toetsing vindt plaats in alle stadia van universitair onderwijs. Mijn
@@ -1015,7 +1011,7 @@ een vergelijkbaar gesprek.
 {: .text-justify}
 
 Organisatorische kwaliteiten
-----------------------------
+=============
 > *De universitair docent is in staat om de doelstellingen van de cursus(sen) organisatorisch vorm te geven in overeenstemming met de organisatie van het facultaire onderwijs en/of de opleiding. Dit betekent werken in teamverband en overleg plegen met collega\'s of andere relevante personen over inhoud en vorm van het door hen verzorgde onderwijs*
 
 De IntroBioinfo cursus functioneert als een toegangscursus tot veel
@@ -1109,9 +1105,9 @@ hen aan om ook elkaar wat beter te leren kennen.
 {: .text-justify}
 
 Visie op universitair onderwijs
--------------------------------
+=============
 
-### Wetenschappelijk onderwijs in maatschappelijke context
+## Wetenschappelijk onderwijs in maatschappelijke context
 Wetenschappelijk onderwezen biologen gaan deze eeuw een cruciale rol
 spelen Als docent bij de universitaire opleiding biologie ben ik me heel
 bewust van mijn bijdrage aan hun potentiële toekomstige werk. Ten tijde
@@ -1167,7 +1163,7 @@ uit te voeren en anderzijds te navigeren door ingewikkelde
 maatschappelijke debatten.
 {: .text-justify}
 
-### Goed voorbeeld doet volgen
+## Goed voorbeeld doet volgen
 Als WO dragen wij maatschappelijke verantwoordelijkheid, bijvoorbeeld in
 de eerder genoemde kwesties. Niet in de minste zin omdat wij zelf als
 onderzoekers bijdragen aan het oplossen deze vraagstukken. Als
@@ -1199,7 +1195,7 @@ de publiciteit is een voorbeeld voor zowel studenten als voor de gehele
 samenleving.
 {: .text-justify}
 
-### Didactiek
+## Didactiek
 In het vormgeven van WO ben ik een fan van het Utrechtse model met veel
 ruimte voor differentiatie en specialisatie. Wellicht ben ik
 bevooroordeeld aangezien ik mijn opleiding hier in Utrecht heb afgerond.
@@ -1239,7 +1235,7 @@ onderwijs nog steeds waardevol om cursussen door te ontwikkelen.
 {: .text-justify}
 
 SWOT analyse
-------------
+=============
 De sterke kanten van mijn onderwijsactiviteiten in het WO zijn ten
 eerste mijn brede ervaring van begin bachelor, via Master, tot zelfs PhD
 onderwijs. Ten tweede heb ik veel ervaring in actieve onderwijsvormen
