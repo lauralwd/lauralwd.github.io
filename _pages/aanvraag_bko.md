@@ -8,8 +8,6 @@ toc: true
 Curriculum Vitae
 ================
 
-naam Laura Warner Dijkhuizen
-
 |     | **Opleidingen**
 | --- | ---
 |2014 -- 2017 | Master 'Environmental Biology', track 'Plant Biology' (Universiteit Utrecht)
@@ -70,7 +68,6 @@ Zelfevaluatie
 
 Inleiding
 ---------
-
 Onderzoek vindt plaats in allerlei instituties, maar de universiteit is
 mijns inziens bij uitstek de plaats voor kruisbestuiving tussen
 onderzoek en onderwijs. Daarom ben ik dankbaar voor de kans om deze twee
@@ -137,7 +134,6 @@ opgedaan.
 
 Professionele kwaliteiten
 -------------------------
-
 > *De universitair docent is in staat om een stimulerend, activerend en positief studieklimaat te creëren, onder andere door zich enthousiast en betrokken op te stellen.*
 
 Een positief en veilig studieklimaat is enorm belangrijk; positief in de
@@ -197,11 +193,8 @@ Uit [Caracal evaluatie IntroBioinfo oktober
 2021](#caracal-evaluatie-introbioinfo-oktober-2021):
 
 -   *'\...In addition, she was willing to answer whatever difficulty during the course, no matter how dumb or simplistic the question was...'*
-
 -   *'The smaller group was very positive, made you really feel like a class, overall vibe was really good. Also mainly because Laura was very positive and wanted to help everyone, she was really open and always so cheerful. What I also really appreciated were the (coffee) breaks in between lectures. Really gave you time to refocus'*
-
 -   *'Laura (very clear, puts energy in explaining, will answer your questions 100 times if necessary).'*
-
 -   *...I also liked how team-work was encouraged during most of the exercises. I could always ask a fellow student when struggling. ...'*
 
 ![](media/image18.png){width="5.927083333333333in"
@@ -334,7 +327,6 @@ overnam, heb ik herschreven zodat deze in CoCalc werkte.
 
 Vakinhoudelijke kwaliteiten
 ---------------------------
-
 > *De universitair docent is in staat om bij het vormgeven en verzorgen van het onderwijs en de selectie en ontwikkeling van onderwijsmateriaal, de actuele stand van zaken op het betreffende vakgebied te verdisconteren in relatie tot de doelen van het onderwijsonderdeel.*
 
 In mijn opvatting is de kracht van universitair onderwijs de
@@ -411,12 +403,10 @@ In het verenigen van de cursus slaagde ik beter bij cursusonderdelen die
 ik zelf volledig overnam, maar niet altijd in cursusonderdelen die ik
 'uitbestede\` in de tweede week van de cursus:
 .text-justify}
-
 -   *'Laura is een buitengewoon goede lecturer. Bij de topics over
  eiwitten en genexpressie miste ik een beetje de 'bigger picture'.
  Het zou helpen als lecturers bruggetjes maken tussen slides. Ik
  had in week 2 moeite met het volgen van het verhaal.'*
-
 -   *... 'I also like the structure of the course. It was done in such a
  way that it created a sufficient challenge for really good
  students but there was also sufficient time for slow learners like
@@ -455,7 +445,6 @@ Didactische kwaliteiten
 -----------------------
 
 ### Ontwerpen van onderwijs
-
 > *De universitair docent is in staat om een cursus zo in te richten dat deze past bij de aanwezige voorkennis van studenten, het doel van de cursus en de plaats van de cursus in de gehele opleiding, blijkens het gekozen materiaal en de leervormen die betrekking hebben op kennisverwerving en de activiteiten die gericht zijn op het verwerven van zowel vakgerichte als academische competenties.*
 
 Een cursus aanpassen aan de voorkennis van de student blijft een
@@ -500,12 +489,12 @@ beantwoorden aan de hand van DNA data.
 Uit de caracal enquête 2021 bleek dat studenten de cursus passend vonden
 bij hun voorkennis en studenten gaven aan veel geleerd te hebben.
 (Aansluiting bij voorkennis was 3.1 en 3,7 in 2019 en toegenomen begrip
-was 3,5 en 4,2 in 2019)\
+was 3,5 en 4,2 in 2019)
+
 ![](media/image4.png){width="5.708333333333333in"
 height="1.1145833333333333in"}
 
 ![](media/image11.png){width="5.802083333333333in" height="1.34375in"}
-----------------------------------------------------------------------
 
 Tijdens mijn PhD heb ik mogen bijdragen in allerlei fases van het
 universitair onderwijs en kunnen ervaren hoe deze met elkaar relateren.
@@ -586,7 +575,6 @@ graduate school verplicht toe is.
 .text-justify}
 
 ### Geven van onderwijs
-
 > *De universitair docent is in staat om een variatie van relevante, motiverende en onderwijskundig verantwoorde werkvormen (bijvoorbeeld werkgroep, zelfstudie, hoorcollege, practicum, enz.) en leermiddelen (bijvoorbeeld referaten, gebruik van ICT, enz.) te hanteren, waarbij de docent afwisselend verschillende docentrollen vervult, zoals die van expert tot coach.*
 
 In mijn vijf jaar PhD heb ik ervaring op mogen doen in allerlei
@@ -652,14 +640,12 @@ zelf te geven.
 
 Uit [Caracal evaluatie IntroBioinfo oktober
 2021](#caracal-evaluatie-introbioinfo-oktober-2021):
-
 -   *... 'Also when a lecturer did not show up she just gave the lecture
  herself which I thought was pretty cool. So a very big compliment
  for Laura! Some guest lectures were a bit chaotic and gave very
  much information in a very short amount of time. For me it would
  have been nice if some lectures were a bit shorter and bit more
  clear' ...*
-
 -   *\`Laura\'s lectures were very clear, but some of the guest
  lecturerers went a bit too fast. This made some lectures difficult
  to understand, especially when you are not really familiar with
@@ -706,7 +692,6 @@ aanvullend online materiaal, maakte het bovendien makkelijk om
 verhinderde studenten en studenten in quarantaine toch mee te laten doen
 in de cursus.
 .text-justify}
-
 -   *... 'When I was sick for a few days she helped thinking about a
  good solution for me to still follow the course in a proper way.'
  ...*
@@ -774,7 +759,6 @@ vond de cursus hoofdzakelijk via de officiële studiegids of via
 Osiris.De studenten waren vaak niet op de hoogte van de vorm of
 organisatie van de cursus zoals de thematische tweedeling.
 .text-justify}
-
 -   *'Het kan aan mij liggen maar ik kan me niet herinneren de dingen
  die ik als totaal niet had aangevinkt te hebben gelezen in de
  studiegids. Ik denk zelf wel dat de meeste mensen kijken naar de
@@ -874,10 +858,8 @@ breedte van de cursus, maar misten een rode draad door de vele
 onderwerpen ([Caracal evaluatie IntroBioinfo april
 2019](#caracal-evaluatie-introbioinfo-april-2019)).
 .text-justify}
-
 -   *'Many subjects were discussed which did end up to be in total an
  introduction to bioinformatics which it is supposed to be'*
-
 -   *'I missed a red line throughout the whole course, connecting all
  the different subjects. There was too much too learn and due to
  the lack of emphasis on concepts it was hard to study for the
@@ -915,7 +897,6 @@ Deze toename was voor mij een teken dat ik goed op weg was met deze
 cursus en een duidelijk signaal dat de leerdoelen behaald werden.
 
 ### Toetsen en evalueren van onderwijs
-
 > *De universitair docent is in staat om een verantwoorde keuze te maken uit de diverse toetsvormen en deze een representatieve afspiegeling te laten zijn van de cursus en een integrale toetsing van kennis en vaardigheden.*
 
 Toetsing vindt plaats in alle stadia van universitair onderwijs. Mijn
@@ -1077,7 +1058,6 @@ een vergelijkbaar gesprek.
 
 Organisatorische kwaliteiten
 ----------------------------
-
 > *De universitair docent is in staat om de doelstellingen van de cursus(sen) organisatorisch vorm te geven in overeenstemming met de organisatie van het facultaire onderwijs en/of de opleiding. Dit betekent werken in teamverband en overleg plegen met collega\'s of andere relevante personen over inhoud en vorm van het door hen verzorgde onderwijs*
 
 De IntroBioinfo cursus functioneert als een toegangscursus tot veel
@@ -1388,7 +1368,6 @@ mogelijkheden die ik daar ga vinden.
 
 Nawoord
 -------
-
 Zoals ik dit document begon, sluit ik ook af: Onderzoek vindt plaats in
 allerlei instituties, maar de universiteit is bij uitstek de plaats voor
 kruisbestuiving tussen onderzoek en onderwijs. Daarom ben ik dankbaar
