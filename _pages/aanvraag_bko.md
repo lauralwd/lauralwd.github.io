@@ -5,6 +5,17 @@ title: "Aanvraag Basis Kwalificatie Onderwijs"
 toc: true
 ---
 
+This page contains my application for the University Teaching Qualification or BKO (Basis Kwalificatie Onderwijs in Dutch).
+This application is written in Dutch, for the Biology Bachelor which assigns this degree is a Dutch spoken Bachelor.
+Attachments (Bijlagen) are not included here due to their size, hence links to any attachments are not working.
+
+**Timeline**
+- First draft: March 25th 2022
+- Final version:
+- Submission:
+- Awarded:
+
+
 Curriculum Vitae
 ================
 
