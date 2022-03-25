@@ -86,6 +86,7 @@ tutoraat en het ontwikkelen van een computerpracticum voor
 Masters (IntroBioinfo). Als promovendi vertegenwoordiger in de GS-LS PhD
 council was ik betrokken bij het opnieuw vormgeven van de promovendi
 opleiding en later de facultaire reglementen waarin dit is vastgelegd.
+{: .text-justify}
 
 Het eerste deel van mijn PhD heb ik aan allerlei onderwijs bijgedragen,
 georganiseerd door verschillende coördinatoren en in samenwerking met
@@ -96,6 +97,7 @@ Gedurende de laatste fase van mijn BKO traject heb ik dit mozaïek
 van IntroBioinfo. Het coördineren en grotendeels zelf onderwijzen van
 deze cursus is de belangrijkste ontwikkelstap geweest in mijn BKO
 traject. Ik zal er veel aan refereren in dit portfolio.
+{: .text-justify}
 
 Gedurende een PhD zijn er tal van mogelijkheden tot scholing op
 wetenschappelijk en algemeen vlak, maar ik moest iets meer zoeken naar
@@ -106,6 +108,7 @@ de departement-brede onderwijs werkbesprekingen. De leerzaamste
 activiteit vond ik in de "SoTL cursus" "haal meer uit je onderwijs",
 waar de wetenschappelijke methode werd toegepast op het onderzoeken en
 verbeteren van eigen onderwijs.
+.text-justify}
 
 Naast curriculair onderwijs heb ik me geïnteresseerd voor outreach
 activiteiten voor een breder publiek; zie mijn CV voor details. Soms
@@ -115,6 +118,7 @@ in planten of in het werk van wetenschappers. Outreach activiteiten
 verschilden in intensiteit van curriculair onderwijs, maar hebben mij
 bij uitstek geholpen om na te denken over de (voor)kennis van mijn
 doelgroep en hoe daarbij aan te sluiten.
+.text-justify}
 
 Tot slot heb ik kansen aangegrepen om ook bij te dragen aan de bredere
 organisatie en representatie, bijvoorbeeld in de \'curriculum
@@ -123,11 +127,13 @@ en als PhD lid van het \'Board of Studies\' van de GS-LS. Discussies in
 deze organen gaven me een breder perspectief op universitair onderwijs,
 de interne relaties en de keuzes die komen kijken bij het inrichten
 ervan.
+.text-justify}
 
 In dit portfolio reflecteer ik op de professionele, vakinhoudelijke,
 didactische en organisatorische kwaliteiten nodig voor het behalen van
 een BKO, aan de hand van de ervaringen die ik de afgelopen vijf jaar heb
 opgedaan.
+.text-justify}
 
 Professionele kwaliteiten
 -------------------------
@@ -151,6 +157,7 @@ eerste jaar van de bachelor. Hoewel studenten niet met dat
 haalbaarheid en kunde overbrengen op de studenten door ze stap voor stap
 verder te helpen. Mijn eigen enthousiasme voor de stof heeft me daar
 ongetwijfeld bij geholpen.
+.text-justify}
 
 Andersom merkte ik ook hoe gebrek aan een positief studieklimaat leren
 in de weg kan zitten. Bijvoorbeeld hoe onzekerheid van een student
@@ -170,6 +177,7 @@ leerervaring van een student leerde mij het belang van een positief
 studieklimaat en deze ervaringen neem ik mee in een zoektocht naar de
 balans van de student uitdagen maar ook capabel laten voelen om hun
 uitdaging aan te kunnen.
+.text-justify}
 
 In mijn onderwijservaring heb ik veel gewerkt in actieve vormen: veel
 practica en (mini)-stages. In mijn eigen studententijd waardeerde ik
@@ -183,6 +191,7 @@ is voor mij geslaagd als een student zich vrij voelt om elke vraag te
 stellen aan mij of aan een collega. Daarom ben ik ook enorm blij met
 onderstaande opmerkingen uit de meest recente IntroBioinfo cursus (weer
 op locatie onderwijs)
+.text-justify}
 
 Uit [Caracal evaluatie IntroBioinfo oktober
 2021](#caracal-evaluatie-introbioinfo-oktober-2021):
@@ -207,6 +216,7 @@ Als cursuscoördinator communiceerde ik vrijwel uitsluitend in het Engels
 met studenten, altijd naar wederzijdse tevredenheid. Dit bleek ook uit
 de meeste recente caracal enquête van IntroBioinfo, waar ik zelf
 'lecturer' was gedurende tweederde van de cursus.
+.text-justify}
 
 Uit [Caracal evaluatie IntroBioinfo oktober
 2021](#caracal-evaluatie-introbioinfo-oktober-2021):
@@ -223,6 +233,7 @@ voorbereidingen. Voor werkcolleges vond ik mezelf in allerlei zalen
 verspreid over de Uithof, en ook voor colleges en computerpractica
 reisde ik eveneens de Uithof over. Dankzij de goede voorzieningen op de
 Uithof, is lesgeven in steeds weer wisselende lokalen makkelijk.
+.text-justify}
 
 Waar onderzoekslijnen veelal individueel of in kleine teams worden
 uitgevoerd, is onderwijs bij uitstek een verbindende activiteit
@@ -242,6 +253,7 @@ experts dat zij de hele dag aanwezig waren. Tot slot heb ik met veel
 plezier bijgedragen aan een gastcollege bij bijvoorbeeld 'data science
 en biologie' of biotechnologie en maatschappij en aan het begeleiden van
 een druk practicum ook als ik niet bij een cursus betrokken was.
+.text-justify}
 
 > *De universitair docent is in staat om te reflecteren op het eigen functioneren en open te staan voor kritiek van studenten en collega\'s met betrekking hierop. Hen staat open voor vernieuwingen en is in staat zich blijvend te ontwikkelen.*
 
@@ -253,6 +265,7 @@ op de effectiviteit van mijn zelf ontworpen onderwijs in de SoTL
 (Scholarship of Teaching and Learning) cursus "haal meer uit je
 onderwijs". Vooral deze laatste cursus heeft mijn visie op (het
 onderwijzen van) universitair onderwijs substantieel veranderd.
+.text-justify}
 
 In de cursus "Haal meer uit je onderwijs" leerde ik te reflecteren met
 een focus op het leerproces dat zich afspeelt in de student in plaats
@@ -285,6 +298,7 @@ Althans, dat concludeer ik uit de mindmaps zelf, die ik met toestemming
 van de studenten weer heb ingenomen en een exit enquête na afloop van de
 cursus ([Exit enquête IntroBioinfo maart
 2019](#exit-enquête-introbioinfo-maart-2019)).
+.text-justify}
 
 ![](media/image78.png){width="5.579253062117235in"
 height="2.730774278215223in"}
@@ -302,6 +316,7 @@ kwaliteiten](#vakinhoudelijke-kwaliteiten), specifiek onder
 [De universitair docent is in staat om dwarsverbanden te leggen met
 verwante
 disciplines...](#iyc465i4zxtp).
+.text-justify}
 
 ![](media/image80.png){width="5.541035651793526in"
 height="2.7291666666666665in"}
@@ -315,6 +330,7 @@ server bood een geweldig middel om studenten laagdrempelig kennis te
 laten maken met computercode zonder onder te doen voor wetenschappelijke
 inhoud van de oefeningen. Alle onderwerpen die ik van gastdocenten
 overnam, heb ik herschreven zodat deze in CoCalc werkte.
+.text-justify}
 
 Vakinhoudelijke kwaliteiten
 ---------------------------
@@ -343,6 +359,7 @@ science, specifiek publiek beschikbare data, open source methodes en
 bijhouden van een digitaal labjournaal met code. Dit deed ik aan de hand
 van een voorbeeld uit mijn eigen werk beschikbaar op:
 [GitHub.com/lauralwd/lauras\_phylogeny\_wf](https://github.com/lauralwd/lauras_phylogeny_wf)
+.text-justify}
 
 > *De universitair docent is in staat om dwarsverbanden te leggen met verwante disciplines en wetenschapsgebieden enerzijds en tussen theorie en praktijk anderzijds.*
 
@@ -361,6 +378,7 @@ fylogenie heb gebruikt in mijn eigen onderzoek en dat van mijn
 collega\'s. In het vervolg van de cursus werd de basiskennis van
 fylogenie gebruikt in het onderdeel structurele biologie en dit kondigde
 ik ook aan op die dag zelf.
+.text-justify}
 
 Op deze manier heb ik alle cursusonderdelen opnieuw gerangschikt en
 begon elke dag met een korte uitleg van de relaties tussen dit onderdeel
@@ -373,6 +391,7 @@ onder andere uit de steeds snellere afronding van practica waardoor ik
 hier en daar zelfs een dag(deel) kon schrappen. In de meeste recente
 versie van de cursus heb ik studenten achteraf specifiek gevraagd of dit
 het geval was.
+.text-justify}
 
 Uit [Caracal evaluatie IntroBioinfo oktober
 2021](#caracal-evaluatie-introbioinfo-oktober-2021):
@@ -391,6 +410,7 @@ en een 3,2 en 2.8 voor mijn coördinatorschap in
 In het verenigen van de cursus slaagde ik beter bij cursusonderdelen die
 ik zelf volledig overnam, maar niet altijd in cursusonderdelen die ik
 'uitbestede\` in de tweede week van de cursus:
+.text-justify}
 
 -   *'Laura is een buitengewoon goede lecturer. Bij de topics over
  eiwitten en genexpressie miste ik een beetje de 'bigger picture'.
@@ -429,6 +449,7 @@ op een niveau in een vorm die ik passend vond bij de cursus.
 Belangrijker nog: met deze opdracht poogde ik een brug slaan tussen een
 oefening op een practicumdag en het aan de slag gaan met echte data in
 een toekomstige stage of baan.
+.text-justify}
 
 Didactische kwaliteiten
 -----------------------
@@ -450,6 +471,7 @@ duidelijk merkbaar. Een algemene strategie die ik gebruik, is om de
 cursus relatief langzaam te beginnen maar wel extra's aan te bieden aan
 studenten die bovengemiddeld bekwaam zijn in de stof. In het minst
 gunstige geval hebben zij het de eerste dag of dagen iets makkelijker.
+.text-justify}
 
 Om een beter beeld te krijgen van aanstaande studenten in mijn
 cursussen, gebruikte ik intro-enquêtes in zowel BBE als IntroBioinfo.
@@ -473,6 +495,7 @@ comparative genomics (fylogenie). Aan het eind van de week weten de
 studenten raad met de BASH programmeertaal en allerlei bioinformatische
 programma\'s, en kunnen ze allerlei biologische vragen stellen en
 beantwoorden aan de hand van DNA data.
+.text-justify}
 
 Uit de caracal enquête 2021 bleek dat studenten de cursus passend vonden
 bij hun voorkennis en studenten gaven aan veel geleerd te hebben.
@@ -507,6 +530,7 @@ bioinformatische analyse. Met praktische vaardigheid bedoel ik hier dat
 ik de studenten graag een aanzet wil geven om een simpele
 bioinformatische analyse te doen in de context van een toekomstige stage
 of baan.
+.text-justify}
 
 In mijn korte bijdrage aan de curriculum committee van de nieuwe master
 'Bioinformatics and Biocomplexity' (CURC), zag ik vanuit
@@ -523,6 +547,7 @@ me ook hoe de diepgang en leerdoelen van een toegewijde Master
 verschillen van het keuzeprofiel voor alle andere 'life sciences' Master
 studenten. De cursus IntroBioinfo was immers de spil in het
 bioinformatica profiel.
+.text-justify}
 
 Tijdens mijn deelname aan het Board of Studies (BoS) van de GS-LS was ik
 hoofdzakelijk vertegenwoordiger van de promovendi van de GS-LS. Deelname
@@ -537,6 +562,7 @@ aanstellingen voor vertrouwenspersonen voor promovendi in alle
 faculteiten, duidelijke richtlijnen voor de inhoud van proefschriften en
 meer zicht op de bredere ontwikkeling van promovendi door alle
 begeleiders betrokken bij een promoveren.
+.text-justify}
 
 Naast mijn bijdrage aan de promovendi opleiding, kreeg ik ook een nieuw
 perspectief over alle Masteropleidingen als geheel, de overlap, en het
@@ -557,6 +583,7 @@ structuur. De school structureert met duidelijk grenzen en communicatie
 beschikbare faciliteiten en regelingen. Die regelingen streven naar een
 balans tussen vrijheid voor de studenten en kwaliteitsgarantie waar een
 graduate school verplicht toe is.
+.text-justify}
 
 ### Geven van onderwijs
 
@@ -569,6 +596,7 @@ van onderwijzen. Mijn ervaring in werkcolleges en practica heb ik eerder
 uitgebreid beschreven toen ik schreef over het belang van een positief
 studieklimaat ([Professionele
 kwaliteiten](#professionele-kwaliteiten)).
+.text-justify}
 
 De plotselinge COVID-19 crisis in 2020 vroeg een snelle verandering van
 onderwijsvorm voor het practicum metagenomics wat ik zou begeleiden in
@@ -591,6 +619,7 @@ docent. Deze eerste video's, al wat gehaast opgenomen in de eerste week
 van de eerste COVID-19 lockdown, zijn allemaal openbaar beschikbaar op
 mijn youtube kanaal:
 [youtube.com/c/LauraDijkhuizen](https://www.youtube.com/c/LauraDijkhuizen)
+.text-justify}
 
 Nog een les van de effectiviteit van het flip-the-classroom formaat:. ik
 had net het coördinatorschap van IntroBioinfo overgenomen en vroeg
@@ -609,6 +638,7 @@ voldoende kwaliteit om te behouden, maar soms ook niet. Ik heb er een
 aantal gehouden en een aantal opnieuw gemaakt. Ter variatie heb ik ook
 colleges op locatie gedaan, zonder opname maar met interactieve
 elementen.
+.text-justify}
 
 In mijn onderwijstijd de afgelopen vijf jaar heb ik relatief weinig
 hoorcolleges gegeven, laat staan hoorcolleges voor grote groepen. Mijn
@@ -618,6 +648,7 @@ en over de lengte van een hele cursus is zeker een onderwerp waar ik nog
 in kan en wil groeien in mijn verdere onderwijscarrière. In IntroBioinfo
 heb ik wel een aantal opgenomen hoorcolleges geschrapt om die vervolgens
 zelf te geven.
+.text-justify}
 
 Uit [Caracal evaluatie IntroBioinfo oktober
 2021](#caracal-evaluatie-introbioinfo-oktober-2021):
@@ -640,12 +671,14 @@ In begeleidend onderwijs streef ik er altijd naar om vragen van
 studenten te beantwoorden met stapsgewijze wedervragen. Soms is een
 enkele vraag al genoeg. Op die manier help ik studenten om hun vraag te
 specificeren en de voorkennis aan nieuwe kennis te linken.
+.text-justify}
 
 Geschreven uitdrukkingsvaardigheid begint al vroeg in de Bachelor. Als
 tutor was het onder andere mijn taak om de eerstejaars studenten een
 eerste les te geven in het wetenschappelijk schrijven. Later in het
 tutoraat was het aan mij om het eerste geschreven werk te beoordelen en
 van feedback te voorzien.
+.text-justify}
 
 Beide vormen van uitdrukkingsvaardigheid kwamen aan bod als begeleider
 van studenten in het Azolla lab, zowel Bachelor als master studenten. In
@@ -655,6 +688,7 @@ medestudenten alles konden volgen. Hun geschreven (eind)verslagen van de
 wetenschappelijke stages werden -op enkele uitzondering na- niet door
 mij beoordeeld. Ik kon de studenten wel helpen bij de keuze en weergave
 van resultaten.
+.text-justify}
 
 > *De universitair docent is in staat om open te staan voor individuele studenten en hen te motiveren tot zelfstandig studiegedrag en dit mee te helpen structureren. De docent kan daarbij inspelen op de aanwezige variatie in strategieën voor zelfstandig studeren/leren.*
 
@@ -671,6 +705,7 @@ vragen over de video's. De vorm van op locatie werken met veel
 aanvullend online materiaal, maakte het bovendien makkelijk om
 verhinderde studenten en studenten in quarantaine toch mee te laten doen
 in de cursus.
+.text-justify}
 
 -   *... 'When I was sick for a few days she helped thinking about a
  good solution for me to still follow the course in a proper way.'
@@ -695,6 +730,7 @@ tutoraat studenten, meestal over keuzes omtrent vakken en stages. Als
 tutor had ik daar zelf proactiever in kunnen zijn door studenten actief
 uit te nodigen voor een gesprek maar met volle to-do lijsten en een
 scala aan taken schiet dat er soms bij in.
+.text-justify}
 
 > *De universitair docent is in staat om studieopdrachten (bijvoorbeeld bachelorwerkstuk, onderzoekstage) effectief te begeleiden.*
 
@@ -717,6 +753,7 @@ rekening. Deze verantwoordelijkheid is me zwaar gevallen, maar was ook
 enorm leerzaam. Samen met hun werkzaamheden in het lab, de data analyse
 en hun eindpresentatie bepaalde ik het eindcijfer van hun Bachelor of
 Master stage in overleg met de externe begeleiders.
+.text-justify}
 
 > *De universitair docent is in staat om het onderwijs zo aan te bieden dat rekening wordt gehouden met de diversiteit onder studenten naar voorkennis, aanleg, achtergrond en individuele omstandigheden.*
 
@@ -736,6 +773,7 @@ gekozen als eerste keuze, hoger dan onze indruk van eerdere jaren. Men
 vond de cursus hoofdzakelijk via de officiële studiegids of via
 Osiris.De studenten waren vaak niet op de hoogte van de vorm of
 organisatie van de cursus zoals de thematische tweedeling.
+.text-justify}
 
 -   *'Het kan aan mij liggen maar ik kan me niet herinneren de dingen
  die ik als totaal niet had aangevinkt te hebben gelezen in de
@@ -750,6 +788,7 @@ laatste twee componenten vormen echter wel het leeuwendeel van de
 cursus. In overleg met de coördinatie van de cursus is de Osiris
 omschrijving veranderd, maar er is nog geen zichtbare verbetering in de
 volgende jaren.
+.text-justify}
 
 Toen ik de IntroBioinfo cursus overnam wilde ik een beter beeld van de
 studenteninstroom, hun ervaringen en hun verwachtingen. Daarom schreef
@@ -766,6 +805,7 @@ communicatie aan de hand van die feedback. Hoe ik de cursus verder
 programmeertechnisch heb ingericht is beschreven in de tweede paragraaf
 onder het kopje [Didactische
 kwaliteiten](#didactische-kwaliteiten).
+.text-justify}
 
 > *De universitair docent is in staat om feedback te geven.*
 
@@ -794,6 +834,7 @@ dat over in de zes maanden dat ik als enige werknemer in het lab
 aanwezig was. Studenten helpen met het ordenen van hun resultaten en
 helpen precies te redeneren is een uitdaging en had vaak meerdere rondes
 van feedback nodig, maar het resultaat was vaak de moeite waard.
+.text-justify}
 
 > *De universitair docent is in staat om diverse typen (deel)prestaties te beoordelen, en na weging van afzonderlijk onderdelen tot een eindbeoordeling te komen.*
 
@@ -814,6 +855,7 @@ het Azolla lab alleen begeleidde was ik hoofdzakelijk verantwoordelijk
 voor de beoordeling van studenten en de verscheidenheid van hun werk.
 Het was een waardevolle en leerzame oefening in het balanceren tussen
 coachen, begeleiden, en beoordelen van allerlei deeltaken.
+.text-justify}
 
 > *De universitair docent is in staat om het eigen onderwijs te (laten) evalueren en, eventueel ook naar aanleiding van nieuwe ontwikkelingen in het vakgebied, indien nodig bij te stellen.*
 
@@ -831,6 +873,7 @@ uitgeschreven door mijzelf en via caracal. Studenten waardeerden de
 breedte van de cursus, maar misten een rode draad door de vele
 onderwerpen ([Caracal evaluatie IntroBioinfo april
 2019](#caracal-evaluatie-introbioinfo-april-2019)).
+.text-justify}
 
 -   *'Many subjects were discussed which did end up to be in total an
  introduction to bioinformatics which it is supposed to be'*
@@ -848,6 +891,7 @@ ik begin 2020 hoe zelfverzekerd studenten zich voelden om een
 bioinformatica experiment voor te stellen gedurende een stage. Deze
 vraag stelde ik zowel voorafgaand aan de cursus, als na het uitdelen van
 de uiteindelijke cijfers.
+.text-justify}
 
 Vooraf:
 
@@ -885,6 +929,7 @@ met behulp van rubrics, sloot nauw aan bij de onderwezen stof. Deze
 eerste oefening was zowel een oefening schrijven voor de eerstejaars,
 als een oefening representatief toetsen voor mij. Verdere toetsing van
 geschreven opdrachten deed ik in fysiologie van planten, MGOT, en BBE.
+.text-justify}
 
 Toen ik de cursus IntroBioinfo overnam, was het examen net als de cursus
 een mozaïek van vele onderdelen. De verschillende docenten droegen
@@ -896,6 +941,7 @@ revue was gepasseerd en een overzicht van de biologische vragen die men
 kan behandelen met bioinformatica en zijn subdisciplines. Het probleem
 met deze opzet was het gebrek aan coördinatie en verschil in
 moeilijkheidsgraad tussen de verschillende examenonderdelen.
+.text-justify}
 
 Hoewel een groot deel van de cursus bestaat uit computer practica waarin
 wij werken met programmeertaal, is die vaardigheid expliciet geen
@@ -912,6 +958,7 @@ deden we een experiment waar we dit wel toetsten. Zoals ook omschreven
 in de laatste paragraaf van de sectie [Vakinhoudelijke
 kwaliteiten](#vakinhoudelijke-kwaliteiten), was dit geen
 geslaagd experiment en werd alle code weer uit het examen verwijderd.
+.text-justify}
 
 In mijn coördinatie van de cursus heb ik de opzet met vijf vragen
 gehouden, eveneens met de constructie waarin één vraag naar keuze wordt
@@ -927,6 +974,7 @@ proteomics en netwerken. Op die manier probeerde ik meer overlap tussen
 de onderwerpen te maken in de individuele vragen. Daarmee testte ik de
 kennis van een breder deel van de cursus maar nog steeds met de ruimte
 om één vraag over te slaan.
+.text-justify}
 
 In het herontwerp van het examen werd ik bekend met Bloom's taxonomie
 van leren. Aangezien het een open boek examen betrof, heb ik 'herinner'
@@ -960,6 +1008,7 @@ randje wellicht. Ik ben toch tevreden met de huidige oplossing, maar sta
 open voor alternatieve vormen om de druk van het tentamen te verlichten.
 In deze zoektocht, heb ik begin 2020 studenten om feedback gevraagd
 omtrent het examen nadat ze hun cijfer terug hadden gekregen:
+.text-justify}
 
 ![Forms response chart. Question title: What do you think about the
 following theses about the exam. Number of responses:
@@ -988,6 +1037,7 @@ desbetreffende vakinhoud en
 leeractiviteit.](#xi6buw16wbe3)' De opdracht was bewust
 vrij kort om tijd over te houden voor zelfstudie voor het examen de
 volgende dag.
+.text-justify}
 
 Een laatste vorm van toetsing, betreft de beoordeling van Master
 studenten. Ik schreef hier al eerder over onder de sectie [Geven van
@@ -1006,6 +1056,7 @@ groei van een individuele student; het is maatwerk. Zo maak ik
 onderscheid tussen enerzijds een stage op bioinformatica werk verricht
 door een student zonder veel ervaring en anderzijds een vergelijkbare
 stage door een student met veel ervaring.
+.text-justify}
 
 Tussentijdse voortgangsgesprekken met de individuele studenten werden
 meestal verzorgd door de examinator maar in diens afwezigheid nam ik dat
@@ -1022,6 +1073,7 @@ van de stage. Het resultaat van zo'n gesprek was meestal een concrete
 lijst van acties of criteria waaraan een student ging werken gedurende
 een vaste tijdsperiode. Aan het eind van die periode hadden we opnieuw
 een vergelijkbaar gesprek.
+.text-justify}
 
 Organisatorische kwaliteiten
 ----------------------------
@@ -1046,6 +1098,7 @@ gevallen hebben we besloten de vorm van een practicum om te gooien of de
 inhoud aan te passen aan de hand van de meest recente ontwikkelingen.
 Onderlinge afstemming maakte het mogelijk het practicum van 2 dagen in
 te korten tot 1 dag.
+.text-justify}
 
 > *De universitair docent is in staat om de organisatie van het onderwijs accuraat en tijdig te verzorgen (bijvoorbeeld cursushandleiding, digitale ondersteuning, toetsing, enz.).*
 
@@ -1072,6 +1125,7 @@ studenten. In eerste instantie schriftelijk vooraf en vervolgens opnieuw
 tijdens het eerste college met ruim de tijd voor vragen. Die
 duidelijkheid schiep ruimte om tijdens de cursus informeler te handelen
 en dichterbij de studenten te staan.
+.text-justify}
 
 Uit [Caracal evaluatie IntroBioinfo oktober
 2021](#caracal-evaluatie-introbioinfo-oktober-2021):
@@ -1114,14 +1168,12 @@ gebruikt voor alle individuele opdrachten maar niet voor student-docent
 communicatie. En als derde: MS Teams. Voor thuisonderwijs verdeelde ik
 de groep studenten in kleine groepen voor onderlinge vragen en moedigde
 hen aan om ook elkaar wat beter te leren kennen.
-
-
+.text-justify}
 
 Visie op universitair onderwijs
 -------------------------------
 
 ### Wetenschappelijk onderwijs in maatschappelijke context
-
 Wetenschappelijk onderwezen biologen gaan deze eeuw een cruciale rol
 spelen Als docent bij de universitaire opleiding biologie ben ik me heel
 bewust van mijn bijdrage aan hun potentiële toekomstige werk. Ten tijde
@@ -1142,6 +1194,7 @@ wetenschappelijke onderwijs (WO) biologie is naar mijn idee zeer
 duidelijk: het onderwijzen van en kundig maken in de wetenschappelijk
 methode aan de generatie biologen die deze en andere uitdagingen aan
 moeten gaan. Dit is de eerste pijler van mijn visie op WO.
+.text-justify}
 
 De wetenschappelijke methode en het resulterende fundamenteel of
 toegepast onderzoek zijn geen antwoord an-sich op deze maatschappelijke
@@ -1163,6 +1216,7 @@ zijn in het communiceren met de samenleving als geheel, het
 bedrijfsleven en de politiek. Brede communicatievaardigheid en
 maatschappelijk bewustzijn zie ik als de tweede pijler van mijn visie op
 WO.
+.text-justify}
 
 Niet alle WO-afgestudeerden worden fulltime wetenschapper maar ze zijn
 wel allemaal wetenschappelijk opgeleid. Zij zijn geoefend in de
@@ -1173,9 +1227,9 @@ wereldwijde voedselvoorziening zijn wij afhankelijk van de komende
 generaties biologen om enerzijds fundamenteel wetenschappelijk onderzoek
 uit te voeren en anderzijds te navigeren door ingewikkelde
 maatschappelijke debatten.
+.text-justify}
 
 ### Goed voorbeeld doet volgen
-
 Als WO dragen wij maatschappelijke verantwoordelijkheid, bijvoorbeeld in
 de eerder genoemde kwesties. Niet in de minste zin omdat wij zelf als
 onderzoekers bijdragen aan het oplossen deze vraagstukken. Als
@@ -1205,9 +1259,9 @@ documentaires, etcetera. Zie [mijn CV](#curriculum-vitae)
 voor mijn eigen bijdrage aan outreach activiteiten. Een wetenschapper in
 de publiciteit is een voorbeeld voor zowel studenten als voor de gehele
 samenleving.
+.text-justify}
 
 ### Didactiek
-
 In het vormgeven van WO ben ik een fan van het Utrechtse model met veel
 ruimte voor differentiatie en specialisatie. Wellicht ben ik
 bevooroordeeld aangezien ik mijn opleiding hier in Utrecht heb afgerond.
@@ -1233,6 +1287,7 @@ en langere termijn begeleiding van hun ontwikkeling staan onder druk
 door de omvang van het takenpakket van een universitair docent. Deze
 reflectie doet mij inzien dat ik in mijn toekomstig onderwijs hier
 aandacht aan wil blijven besteden.
+.text-justify}
 
 Als jonge onderzoeker en onderwijzer heb ik bij veel cursussen een
 kijkje in de keuken mogen nemen. Daarnaast heb ik de tijd genomen om
@@ -1243,10 +1298,10 @@ naar mijn mening, zo logisch dat ik bijna verbaasd ben dat dit geen
 standaard praktijk is. Zelfs als een UD geen ambitie heeft om in SoTL
 tijdschriften te publiceren, is het toepassen van de methode op eigen
 onderwijs nog steeds waardevol om cursussen door te ontwikkelen.
+.text-justify}
 
 SWOT analyse
 ------------
-
 De sterke kanten van mijn onderwijsactiviteiten in het WO zijn ten
 eerste mijn brede ervaring van begin bachelor, via Master, tot zelfs PhD
 onderwijs. Ten tweede heb ik veel ervaring in actieve onderwijsvormen
@@ -1262,6 +1317,7 @@ laten opzoeken. Naar mijn idee leren studenten meer van elkaar dan van
 mij mits er een positief studieklimaat heerst waarin studenten met hun
 eigen talenten en tekortkomingen aan de slag kunnen. Aan mij de eer om
 ze hier en daar bij te sturen en over eventuele hordes heen te helpen.
+.text-justify}
 
 Mijn tekortkomingen gaan hand-in-hand met mijn sterke kanten. Brede
 ervaring kan ik ook schrijven als een versplinterd takenpakket. Ervaring
@@ -1287,6 +1343,7 @@ studenten ook geholpen zouden zijn bij een simpel gesprek, maar zelf
 niet die eerste stap zetten. Tot slot kan ik nog leren om iets korter
 van stof te zijn, iets wat de beoordelaars van dit stuk inmiddels met me
 eens zullen zijn.
+.text-justify}
 
 Kansen voor ontwikkeling in onderwijs liggen in het verschiet ondanks
 dat mijn contract bij de Universiteit Utrecht ten einde loopt in 2022.
@@ -1317,6 +1374,7 @@ context](#wetenschappelijk-onderwijs-in-maatschappelijke-context).
 De maatschappelijke tendens richting open science past mij goed, en een
 relatief hoge vraag naar bioinformatici is gunstig voor mijn baankansen
 en de ervaring die ik daar kan opdoen.
+.text-justify}
 
 Risico's wat betreft mijn toekomstige ontwikkeling op onderwijsvlak zijn
 er ook. Veel vacatures die passen bij mijn ervaring bevatten geen of
@@ -1326,6 +1384,7 @@ geef ik dan alleen maar bio informatica onderwijs of kan ik mijn
 bijdrage ook leveren in een breder pallet van cursussen?
 Onderwijsontwikkeling in een extern instituut is zeer afhankelijk van de
 mogelijkheden die ik daar ga vinden.
+.text-justify}
 
 Nawoord
 -------
@@ -1345,3 +1404,4 @@ die aanmoediging en sturing enorm waardevol geweest. Tot slot bedank ik
 allen die mij hebben geholpen en geadviseerd in mijn BKO, specifiek Dr.
 Margot Koster en de examencommissie. Bedankt voor het doorlezen van mijn
 reflecties.
+.text-justify}
