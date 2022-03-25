@@ -4,6 +4,8 @@ layout: single
 excerpt_separator: "<!--more-->"
 title: "Aanvraag Basis Kwalificatie Onderwijs"
 toc: true
+toc_label: "Inhoudsopgave"
+toc_sticky: false
 ---
 
 This page contains my application for the University Teaching Qualification or BKO (Basis Kwalificatie Onderwijs in Dutch).
