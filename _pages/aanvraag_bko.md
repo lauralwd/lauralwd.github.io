@@ -2,7 +2,6 @@
 permalink: /teaching/BKO
 layout: single
 title: "Aanvraag Basis Kwalificatie Onderwijs"
-classes: "wide"
 toc: true
 ---
 
