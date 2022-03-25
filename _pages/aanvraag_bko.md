@@ -5,13 +5,14 @@ excerpt_separator: "<!--more-->"
 title: "Aanvraag Basis Kwalificatie Onderwijs"
 toc: true
 toc_label: "Inhoudsopgave"
-toc_sticky: false
+toc_sticky: true
 ---
 
 This page contains my application for the University Teaching Qualification or BKO (Basis Kwalificatie Onderwijs in Dutch).
 This application is written in Dutch, for the Biology Bachelor which assigns this degree is a Dutch spoken Bachelor.
 <!--more-->
 Attachments (Bijlagen) are not included here due to their size, hence links to any attachments are not working.
+{: .text-justify}
 
 **Timeline**
 - First draft: March 25th 2022
@@ -19,64 +20,6 @@ Attachments (Bijlagen) are not included here due to their size, hence links to a
 - Submission:
 - Awarded:
 
-
-Curriculum Vitae
-================
-
-|     | **Opleidingen**
-| --- | ---
-|2014 -- 2017 | Master 'Environmental Biology', track 'Plant Biology' (Universiteit Utrecht)
-|2010 -- 2014 | Bachelor Biologie (Universiteit Utrecht)
-
-|     | **Werkervaring**
-| --- | ---
-2017 -- heden | PhD (moleculaire plantenfysiologie, Departement Biologie,Universiteit Utrecht) 0.8FTE
-2017 -- 2022  | Onderwijs AIO (Departement Biologie, Universiteit Utrecht) 0.2FTE
-
-|     | **Didactische scholing**
-| --- | ---
-|2022 jan | SIG motivation lezing
-|2021 okt | SIG SOTL lezing 'how does learning happen'
-|2020     |Onderwijsparade & SoTL Conferentie
-|2019     | Onderwijsparade
-|2018 -- 2022 | Onderwijs Werkbesprekingen Departement biologie
-|2018 -- 2019 | SOTL cursus 'haal meer uit je onderwijs'
-|2017         |Cursus Start to Teach
-
-|     | **Gegeven en ontwikkeld onderwijs**
-| --- | ---
-|2020 -- 2021  |Cursuscoördinator van de Master cursus 'Introduction to bioinformatics for Life Sciences'
-|2018 -- 2020  | Werkcolleges moleculaire plantenfysiologie
-|2017 -- heden | Begeleiding BSc en MSc studenten in het Azolla lab
-|2017 -- heden | Tutoraat
-|2017 -- 2021  | Mededocent voor de cursus biologie van de biobased economie
-|2017 -- 2020  | Mededocent voor de Master cursus 'Introduction to bioinformatics for Life Sciences'
-|2017 -- 2020  |Practicum begeleiding moleculair genetische onderzoekstechnieken
-|2017          |Werkcolleges systeembiologie
-
-|     | **Management**
-| --- | ---
-|2020 -- 2022 |Lid Universiteit Utrecht Open Science platform
-|2020 -- 2021 |Lid Faculty Open Science (implementation) Team
-|2019 -- 2021 |Lid curriculum committee Master Bioinformatics & Biocomplexity
-|2019 -- 2021 |Voorzitter PhD council Graduate School of Life Sciences (GS-LS)
-|             |Lid GS-LS Board of studies
-|2017 -- 2021 |Lid PhD council van het 'Institute of Environmental Biology' en de 'GS-LS'
-
-|     | **Outreach**
-| --- | ---
-|2020 |Interview bij de Amsterdam Hortus Botanicus podcast
-|2019 |Basisschool lezing over veredeling van planten
-|2019 |Weekend van de wetenschap: planten onder de microscoop
-|2018 |Interview in het AD over Azolla onderzoek
-|2018 |Interview populair wetenschappelijk tijdschrift UU
-|2018 |Deelname in populair wetenschappelijk TV programme 'De Kennis van Nu'
-|2018 |Lezing over GMO's en gene editing voor UU alumni
-|2017 |Interview voor BNR radio
-|2017 |TV interview voor RTV Utrecht over Azolla varens
-|2011 -- 2014 | Organisatie van de 'βeta-dag'; een introductie voor 150 3de jaars middelbare school leerlingen tot de β wetenschappen
-
-Links en details beschikbaar op [lauradijkhuizen.com/outreach](/outreach/)
 
 Zelfevaluatie
 =============
