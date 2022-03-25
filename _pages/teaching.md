@@ -11,7 +11,7 @@ During my work at Utrecht University, I have grown from practical assistant to c
 In my teaching practice, I find it important that academic students experience and do a certain experiment or technique, rather than just reading about it. 
 Whenever I can, I implement this in my teaching.
 {: .text-justify}
-Perhaps also have a look at my [outreach projects](/outreach/){: .btn .btn--info}.
+Perhaps also have a look at my [outreach projects](/outreach/){: .btn .btn--info}
 
 {% include figure image_path="assets/images/elementary_school_breeding_lecture.jpg" caption="Teaching a class of (very young) biologists about the basics of plant breeding. "%}
 
@@ -30,6 +30,9 @@ As coordinator, I manage and organise a team of experts from various local insti
 Students are introduced to many subfields of bioinformatics by absolute experts. 
 I guide and supervise the students during the whole course and the many hands-on exercises. 
 As coordinator, I guard cohesion between the many parts and people involved.
+One section of the course is completely of my own design and I chose the share this publicly on github: a hands-on session for learning metagenomics.
+Read more about this on the [practical home page](https://www.lauradijkhuizen.com/metagenomicspractical). 
+Alternatively, browse the course materials on [github.com/lauralwd/metagenomicspractical](https://www.github.com/lauralwd/metagenomicspractical)
 {: .text-justify}
 
 ## Tutor
