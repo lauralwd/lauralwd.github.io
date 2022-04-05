@@ -64,6 +64,10 @@ The LAR phylogeny was published in [Güngör _et al._ (2021)](https://doi.org/10
 ![LAR phylogeny](https://media.githubusercontent.com/media/lauralwd/LAR_phylogeny_gungor-et-al-2020/main/figures/main_text/LAR_orthogroup_selectionv1_guide_v5_17cm_8pts_shalrt_circular_v4.2_brackets_600.svg.png)
 
 ## Far-red light induces the _Azolla filiculoides_ symbiosis sexual reproduction
+<figure style="width: 300px">
+  <img src="https://www.frontiersin.org/files/Articles/693039/fpls-12-693039-HTML-r2/image_m/fpls-12-693039-g001.jpg" alt="">
+  <figcaption><i>Azolla</i> shoot apical meristem and cyanobacterial colonies.</figcaption>
+</figure>{: .align-right}
 This packed paper summarises the work of many graduate students I have had the pleasure to supervise over my years as a PhD candidate.
 Simultaneously, it documents how my colleagues in the _Azolla_ lab found their way in doing bioinformatics analyses themselves.
 The narrative centers around an RNA-seq experiment profiling both the host fern and the cyanobacterial symbiont in transition to sexual reproduction.
@@ -71,10 +75,6 @@ My contributions were the MIKC and MYB phylogenies linked above, some photograph
 Additionally, I designed and maintained the computational infrastructure on which the _Azolla_ lab members learned and performed their bioinformatics experiments.
 {: .text-justify}
 
-<figure style="width: 200px">
-  <img src="https://www.frontiersin.org/files/Articles/693039/fpls-12-693039-HTML-r2/image_m/fpls-12-693039-g001.jpg" alt="">
-  <figcaption>_Azolla_ shoot apical meristem and cyanobacterial colonies.</figcaption>
-</figure>
 My favourite figure from this paper is not one of my own, but a confocal image made by Valerie Buijs.
 These images show the _Azolla_ shoot apical meristem with colonies of _Nostoc azollae_ (a).
 Not how leaf primordia encapsulate part of this meristem colony thereby innoculating the leaf pockets / leaf cavities (a; lc).
