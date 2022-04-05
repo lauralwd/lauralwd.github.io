@@ -33,10 +33,16 @@ As coordinator, I manage and organise a team of experts from various local insti
 Students are introduced to many subfields of bioinformatics by absolute experts. 
 I guide and supervise the students during the whole course and the many hands-on exercises. 
 As coordinator, I guard cohesion between the many parts and people involved.
-One section of the course is completely of my own design and I chose the share this publicly on github: a hands-on session for learning metagenomics.
+{: .text-justify}
+
+## metagenomics practical
+One section of the intro-to-bioinformatics course is completely of my own design and I chose the share this publicly on github: a hands-on session for learning metagenomics.
 Read more about this on the [practical home page](https://www.lauradijkhuizen.com/metagenomicspractical). 
 Alternatively, browse the course materials on [github.com/lauralwd/metagenomicspractical](https://www.github.com/lauralwd/metagenomicspractical)
 {: .text-justify}
+
+{% include figure image_path="/metagenomicspractical/data/annotation/all_bins_nitrogen_metabolism.png", caption= "Nitrogen metabolism of microbes in the <i>Azolla filiculoides</i> metagenome. This is one of the final results of the metagenomics practical." $}
+[Explore the practical home page](https://www.lauradijkhuizen.com/metagenomicspractical){: .btn .btn--success} 
 
 ## Tutor
 Being employed as a part-time teacher, I also tutor students. 
