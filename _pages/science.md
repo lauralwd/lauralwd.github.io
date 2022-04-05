@@ -71,7 +71,8 @@ The LAR phylogeny was published in [Güngör _et al._ (2021)](https://doi.org/10
 This packed paper summarises the work of many graduate students I have had the pleasure to supervise over my years as a PhD candidate.
 Simultaneously, it documents how my colleagues in the _Azolla_ lab found their way in doing bioinformatics analyses themselves.
 The narrative centers around an RNA-seq experiment profiling both the host fern and the cyanobacterial symbiont in transition to sexual reproduction.
-My contributions were the MIKC and MYB phylogenies linked above, some photography and the supervision of (under)graduate students who contributed data underlying most tables and figures.
+My contributions were the [MIKC](https://github.com/lauralwd/MIKC_tree) and [MYB](https://github.com/lauralwd/azolla_MYBs) phylogenies linked above,
+some photography and the supervision of (under)graduate students who contributed data underlying most tables and figures.
 Additionally, I designed and maintained the computational infrastructure on which the _Azolla_ lab members learned and performed their bioinformatics experiments.
 {: .text-justify}
 
