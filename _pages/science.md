@@ -42,9 +42,7 @@ Until then, the methods used towards this end are documented openly on [GitHub h
 Additionally, one of the interactive main figures is available online too: [Azolla genus-wide metagenome browser](/blog/AGMB){: .btn .btn--success}
 {: .text-justify}
 
-![The _Azolla_ genus-wide metagenome](/assets/images/Azolla_genus_metagenome-order.png)
-Overview of the _Azolla_ genus-wide metagenome. 
-Contig of SPAdes metagenome assemblies were assigned taxonomy with CAT and visualised side by side by their length, abundance and taxonomy.
+{% include figure image_path="/assets/images/Azolla_genus_metagenome-order.png" caption="Overview of the _Azolla_ genus-wide metagenome. Contig of SPAdes metagenome assemblies were assigned taxonomy with CAT and visualised side by side by their length, abundance and taxonomy." url="/blog/AGMB/" %}
 
 ## Phylogeny workflow
 My projects primary interest is the microbial community associated with _Azolla_, yet I also work with colleages to understand more about the physiology of the fern itself.
