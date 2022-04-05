@@ -31,7 +31,7 @@ These groups of bacteria are known to also fix nitrogen in some symbiosis, but g
 [Is there foul play in the leaf pocket? The metagenome of floating fern Azolla reveals endophytes that do not fix N2 but may denitrify](https://doi.org/10.1111/nph.14843)
 {: .text-justify}
 
-![lowly abundant microbes in _Azolla_ species](https://nph.onlinelibrary.wiley.com/cms/asset/a5839007-9b9b-4a24-9145-6407ee51562f/nph14843-fig-0002-m.jpg)
+{% include figure image_path="https://nph.onlinelibrary.wiley.com/cms/asset/a5839007-9b9b-4a24-9145-6407ee51562f/nph14843-fig-0002-m.jpg" caption="lowly abundant microbes in _Azolla_ ferns" %}
 _See our publication linked above for more details_
 {: .text-justify}
 
