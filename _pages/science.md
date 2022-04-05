@@ -46,7 +46,7 @@ Additionally, one of the interactive main figures is available online too: [Azol
 Overview of the _Azolla_ genus-wide metagenome. 
 Contig of SPAdes metagenome assemblies were assigned taxonomy with CAT and visualised side by side by their length, abundance and taxonomy.
 
-# Phylogeny workflow
+## Phylogeny workflow
 My projects primary interest is the microbial community associated with _Azolla_, yet I also work with colleages to understand more about the physiology of the fern itself.
 One way I help, is infering the evolutionary history of certain proteins of our interest.
 While learning to reliably infer such a phylogeny, I decided to document my workflow for others, and published this on [Github](https://github.com/lauralwd/lauras_phylogeny_wf).
