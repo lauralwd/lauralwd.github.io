@@ -70,7 +70,11 @@ The narrative centers around an RNA-seq experiment profiling both the host fern 
 My contributions were the MIKC and MYB phylogenies linked above, some photography and the supervision of (under)graduate students who contributed data underlying most tables and figures.
 Additionally, I designed and maintained the computational infrastructure on which the _Azolla_ lab members learned and performed their bioinformatics experiments.
 {: .text-justify}
-{% include figure image_path="https://www.frontiersin.org/files/Articles/693039/fpls-12-693039-HTML-r2/image_m/fpls-12-693039-g001.jpg" caption="_Azolla_ shoot apical meristem and cyanobacterial colonies."%}{: .align-right}
+
+<figure style="width: 200px">
+  <img src="https://www.frontiersin.org/files/Articles/693039/fpls-12-693039-HTML-r2/image_m/fpls-12-693039-g001.jpg" alt="">
+  <figcaption>_Azolla_ shoot apical meristem and cyanobacterial colonies.</figcaption>
+</figure>
 My favourite figure from this paper is not one of my own, but a confocal image made by Valerie Buijs.
 These images show the _Azolla_ shoot apical meristem with colonies of _Nostoc azollae_ (a).
 Not how leaf primordia encapsulate part of this meristem colony thereby innoculating the leaf pockets / leaf cavities (a; lc).
