@@ -10,6 +10,7 @@ tags:
   - data analysis
   - bioinformatics
   - genomics
+classes: "wide"
 ---
 For my project on the _Azolla_ genus-wide metagenome, I wanted to simultaneously visualise many metagenome assemblies.
 "<!--more-->"
