@@ -36,8 +36,13 @@ _See our publication linked above for more details_
 {: .text-justify}
 
 ## Partners & Passengers
-More details later...
+The partners & passengers manuscript focusses on systematically acquiring microbial genomes associated with the _Azolla_ genus as a whole.
+More details will follow later once the manuscript is released as a preprint.
+Until then, the methods used towards this end are documented openly on [GitHub here](https://github.com/lauralwd/azolla_genus_metagenome).
+Additionally, one of the interactive main figures is available online too: [Azolla genus-wide metagenome browser](/blog/AGMB). 
+{: .text-justify}
 
+![The _Azolla_ genus-wide metagenome]()
 
 # Phylogeny workflow
 My projects primary interest is the microbial community associated with _Azolla_, yet I also work with colleages to understand more about the physiology of the fern itself.
