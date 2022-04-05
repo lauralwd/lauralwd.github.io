@@ -5,6 +5,7 @@ title: "Science"
 toc: true
 toc_label: "On this page"
 toc_icon: "cog"
+toc_sticky: "true"
 ---
 
 As an academic in training, I aim to contribute to future food security by working on a highly productive plant and novel crop: _Azolla_.
