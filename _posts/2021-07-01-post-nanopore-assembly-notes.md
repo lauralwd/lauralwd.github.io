@@ -12,6 +12,7 @@ tags:
   - Bash
   - openscience
 toc: true
+toc_sticky: true
 ---
 
 In this post, I document the _Azolla_ lab protocol for nanopore DNA metagenomics sequencing.
