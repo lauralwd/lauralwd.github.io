@@ -52,7 +52,7 @@ One way I help, is infering the evolutionary history of certain proteins of our 
 While learning to reliably infer such a phylogeny, I decided to document my workflow for others, and published this on [Github](https://github.com/lauralwd/lauras_phylogeny_wf).
 With this workflow, students, colleagues, or anyone else, can use my methods to infer their phylogeny.
 This work was achieved only with generous help and advice from the Berend Snel group.
-Some examples of how I used this workflow myself, are also on github. 
+Some examples of how I used this workflow myself, are also on GitHub. 
 These are examples of how I learn to practice Open Science, documenting all my actions, analyses, log files, notes and mistakes using jupyter notebooks and version control software Git.
 {: .text-justify}
 
