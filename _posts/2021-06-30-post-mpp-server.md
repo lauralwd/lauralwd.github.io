@@ -9,6 +9,7 @@ tags:
   - Linux
   - Bash
 toc: true
+toc_sticky: true
 ---
 
 In this post, I document our lab server, how it's made, what's inside, and how to use it.
