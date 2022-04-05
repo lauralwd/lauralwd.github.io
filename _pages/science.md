@@ -60,6 +60,8 @@ These are examples of how I learn to practice Open Science, documenting all my a
  - MIKC phylogeny [GitHub](https://github.com/lauralwd/MIKC_tree) [Zenodo](https://doi.org/10.5281/zenodo.4564374)
  - R2R3 MYB phylogeny [GitHub](https://github.com/lauralwd/azolla_MYBs) [Zenodo](https://doi.org/10.5281/zenodo.4564441)
 
+The LAR phylogeny was published in [Güngör _et al._ (2021)](https://doi.org/10.1111/nph.16896)
+![LAR phylogeny](https://media.githubusercontent.com/media/lauralwd/LAR_phylogeny_gungor-et-al-2020/main/figures/main_text/LAR_orthogroup_selectionv1_guide_v5_17cm_8pts_shalrt_circular_v4.2_brackets_600.svg.png)
 
 
 
