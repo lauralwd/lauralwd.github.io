@@ -39,7 +39,7 @@ _See our publication linked above for more details_
 The partners & passengers manuscript focusses on systematically acquiring microbial genomes associated with the _Azolla_ genus as a whole.
 More details will follow later once the manuscript is released as a preprint.
 Until then, the methods used towards this end are documented openly on [GitHub here](https://github.com/lauralwd/azolla_genus_metagenome).
-Additionally, one of the interactive main figures is available online too: [Azolla genus-wide metagenome browser](/blog/AGMB){: .btn .btn--success}
+Additionally, one of the interactive main figures is available online: [Azolla genus-wide metagenome browser](/blog/AGMB){: .btn .btn--success}
 {: .text-justify}
 
 {% include figure image_path="/assets/images/Azolla_genus_metagenome-order.png" caption="Overview of the _Azolla_ genus-wide metagenome. Contig of SPAdes metagenome assemblies were assigned taxonomy with CAT and visualised side by side by their length, abundance and taxonomy." url="/blog/AGMB/" %}
