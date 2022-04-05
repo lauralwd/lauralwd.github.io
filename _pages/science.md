@@ -63,5 +63,17 @@ These are examples of how I learn to practice Open Science, documenting all my a
 The LAR phylogeny was published in [Güngör _et al._ (2021)](https://doi.org/10.1111/nph.16896)
 ![LAR phylogeny](https://media.githubusercontent.com/media/lauralwd/LAR_phylogeny_gungor-et-al-2020/main/figures/main_text/LAR_orthogroup_selectionv1_guide_v5_17cm_8pts_shalrt_circular_v4.2_brackets_600.svg.png)
 
-
-
+## Far-red light induces the _Azolla filiculoides_ symbiosis sexual reproduction
+This packed paper summarises the work of many graduate students I have had the pleasure to supervise over my years as a PhD candidate.
+Simultaneously, it documents how my colleagues in the _Azolla_ lab found their way in doing bioinformatics analyses themselves.
+The narrative centers around an RNA-seq experiment profiling both the host fern and the cyanobacterial symbiont in transition to sexual reproduction.
+My contributions were the MIKC and MYB phylogenies linked above, some photography and the supervision of (under)graduate students who contributed data underlying most tables and figures.
+Additionally, I designed and maintained the computational infrastructure on which the _Azolla_ lab members learned and performed their bioinformatics experiments.
+{: .text-justify}
+{% include figure image_path="https://www.frontiersin.org/files/Articles/693039/fpls-12-693039-HTML-r2/image_m/fpls-12-693039-g001.jpg" caption="_Azolla_ shoot apical meristem and cyanobacterial colonies."%}{: .align-right}
+My favourite figure from this paper is not one of my own, but a confocal image made by Valerie Buijs.
+These images show the _Azolla_ shoot apical meristem with colonies of _Nostoc azollae_ (a).
+Not how leaf primordia encapsulate part of this meristem colony thereby innoculating the leaf pockets / leaf cavities (a; lc).
+We assume that specialised trichomes are essential in maintaining the symbiosis (b; t).
+Young fern spores -spore initials- are also innoculated in this early stage, taking _N. azollae_ from the apical colony (c)
+{: .text-justify}
