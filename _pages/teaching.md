@@ -6,12 +6,15 @@ classes: "wide"
 ---
 
 Being a junior teacher for 28% of my contract time, I stand in front of many classes.
-These classes sometimes are filled with first-year students on their first day, other times with experienced Master's students learning the details of a certain technique, and many levels of students in between. 
-During my work at Utrecht University, I have grown from practical assistant to coordinator of my own Master's course. 
-In my teaching practice, I find it important that academic students experience and do a certain experiment or technique, rather than just reading about it. 
-Whenever I can, I implement this in my teaching.
+These classes sometimes are filled with first-year students on their first day, other times with experienced Master's students learning the details of a certain technique, and many levels of students in between.
+During my work at Utrecht University, I have grown from practical assistant to coordinator of my own Master's course.
+In my teaching practice, I find it important that academic students experience and execute a certain experiment or technique rather than just reading about it.
+University is explicitly a place where students should be embeded in research practice, especially in the later stage of their academic education.
+While gaining practical experience, I support students in maintaining oversight over what and why they are doing what they are doing.
+For those who are interested, a draft of my application for the University Teaching Qualification (UTQ) or BKO in Dutch, is available [here](/teaching/BKO/).
+This document is written in Dutch completely.
 {: .text-justify}
-Perhaps also have a look at my [outreach projects](/outreach/){: .btn .btn--info}
+Finally, perhaps also have a look at my [outreach projects](/outreach/){: .btn .btn--info}
 
 {% include figure image_path="assets/images/elementary_school_breeding_lecture.jpg" caption="Teaching a class of (very young) biologists about the basics of plant breeding. "%}
 
