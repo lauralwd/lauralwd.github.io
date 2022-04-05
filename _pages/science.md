@@ -54,12 +54,14 @@ Some examples of how I used this workflow myself, are also on GitHub.
 These are examples of how I learn to practice Open Science, documenting all my actions, analyses, log files, notes and mistakes using jupyter notebooks and version control software Git.
 {: .text-justify}
 
- - LAR phylogeny [GitHub](https://github.com/lauralwd/LAR_phylogeny_gungor-et-al-2020/tree/v1.00.00) [Zenodo](https://doi.org/10.5281/zenodo.3959057)
+ - LAR phylogeny [GitHub](https://github.com/lauralwd/LAR_phylogeny_gungor-et-al-2020/) [Zenodo](https://doi.org/10.5281/zenodo.3959057)
  - MIKC phylogeny [GitHub](https://github.com/lauralwd/MIKC_tree) [Zenodo](https://doi.org/10.5281/zenodo.4564374)
  - R2R3 MYB phylogeny [GitHub](https://github.com/lauralwd/azolla_MYBs) [Zenodo](https://doi.org/10.5281/zenodo.4564441)
 
 The LAR phylogeny was published in [Güngör _et al._ (2021)](https://doi.org/10.1111/nph.16896)
-![LAR phylogeny](https://media.githubusercontent.com/media/lauralwd/LAR_phylogeny_gungor-et-al-2020/main/figures/main_text/LAR_orthogroup_selectionv1_guide_v5_17cm_8pts_shalrt_circular_v4.2_brackets_600.svg.png)
+{% include figure image_path="https://media.githubusercontent.com/media/lauralwd/LAR_phylogeny_gungor-et-al-2020/main/figures/main_text/LAR_orthogroup_selectionv1_guide_v5_17cm_8pts_shalrt_circular_v4.2_brackets_600.svg.png" %}
+[View on GitHub](https://github.com/lauralwd/LAR_phylogeny_gungor-et-al-2020){: .btn .btn--success}
+
 
 ## Far-red light induces the _Azolla filiculoides_ symbiosis sexual reproduction
 <figure style="width: 300px">
