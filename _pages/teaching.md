@@ -41,7 +41,7 @@ Read more about this on the [practical home page](https://www.lauradijkhuizen.co
 Alternatively, browse the course materials on [github.com/lauralwd/metagenomicspractical](https://www.github.com/lauralwd/metagenomicspractical)
 {: .text-justify}
 
-{% include figure image_path="/metagenomicspractical/data/annotation/all_bins_nitrogen_metabolism.png", caption= "Nitrogen metabolism of microbes in the <i>Azolla filiculoides</i> metagenome. This is one of the final results of the metagenomics practical." $}
+{% include figure image_path="/metagenomicspractical/data/annotation/all_bins_nitrogen_metabolism.png", caption= "Nitrogen metabolism of microbes in the <i>Azolla filiculoides</i> metagenome. This is one of the final results of the metagenomics practical." %}
 [Explore the practical home page](https://www.lauradijkhuizen.com/metagenomicspractical){: .btn .btn--success} 
 
 ## Tutor
