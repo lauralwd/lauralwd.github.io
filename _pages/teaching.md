@@ -20,7 +20,7 @@ Perhaps also have a look at my [outreach projects](/outreach/){: .btn .btn--info
 Experience as an assistant teacher in courses such as 'systems biology' (1st year BSc), 'plant physiology' and 'molecular genetic research techniques' (2nd year BSc).
 {: .text-justify}
 
-## Teaching
+## Teacher
 Experience as a teacher in courses 'biology of the bio-based economy' (3rd year BSc) and 'introduction to bioinformatics for life sciences' (1st Year MSc).
 {: .text-justify}
 
