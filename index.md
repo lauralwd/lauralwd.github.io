@@ -10,6 +10,18 @@ header:
   caption: "_Azolla filiculoides_ floating on water" 
   overlay_color: "#000"
   overlay_filter: "0.3"
+
+feature_row_present:
+  - image_path: assets/images/azolla_anzali-macro-800x800.jpg       # EPS_Lunteren_ 2022-400x400.png
+    alt: "Azolla anzali macro photo"
+    title: "See my presentation at Lunteren 2022"
+    image_caption: "Azolla anzali"
+    excerpt: "See here, my slides for my talk at the EPS annual meeting in Lunteren 2022: Partners & PAssengers endophytic microbes persistently present in the genus Azolla revealed by comparative metagenomics"
+    url: "/present/"
+    btn_label: "Go to slides"
+    btn_class: "btn--success"
+
+
 feature_row_about:
   - image_path: assets/images/bio-photo2.jpg
     alt: "Laura Dijkhuizen, young academic/scientist at Utrecht University"
@@ -80,6 +92,8 @@ feature_row_projects:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row_present" type="right" %}
 
 {% include feature_row id="feature_row_about" type="left" %}
 
