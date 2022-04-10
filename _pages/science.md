@@ -82,3 +82,9 @@ Not how leaf primordia encapsulate part of this meristem colony thereby innocula
 We assume that specialised trichomes are essential in maintaining the symbiosis (b; t).
 Young fern spores -spore initials- are also innoculated in this early stage, taking _N. azollae_ from the apical colony (c)
 {: .text-justify}
+
+# List of publications
+
+- [DOI](https://doi.org/10.1111/nph.14843) Dijkhuizen, L. W., Tabatabaei, B. E. S., Brouwer, P., Rijken, N., Buijs, V. A., Güngör, E., & Schluepmann, H. (2021). Far-Red Light-Induced Azolla filiculoides Symbiosis Sexual Reproduction: Responsive Transcripts of Symbiont Nostoc azollae Encode Transporters Whilst Those of the Fern Relate to the Angiosperm Floral Transition. Frontiers in plant science, 1448.
+- [DOI](https://doi.org/10.1111/nph.16896) Güngör, E., Brouwer, P., Dijkhuizen, L. W., Shaffar, D. C., Nierop, K. G., de Vos, R. C., ... & Schluepmann, H. (2021). Azolla ferns testify: seed plants and ferns share a common ancestor for leucoanthocyanidin reductase enzymes. New Phytologist, 229(2), 1118-1132.
+- [DOI](https://doi.org/10.3389/fpls.2021.693039) Dijkhuizen, L. W., Brouwer, P., Bolhuis, H., Reichart, G. J., Koppers, N., Huettel, B., ... & Schluepmann, H. (2018). Is there foul play in the leaf pocket? The metagenome of floating fern Azolla reveals endophytes that do not fix N2 but may denitrify. New Phytologist, 217(1), 453-466.
