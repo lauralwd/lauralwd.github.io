@@ -14,9 +14,9 @@ header:
 feature_row_present:
   - image_path: assets/images/azolla_anzali-macro-800x800.jpg
     alt: "Azolla anzali macro photo"
-    title: "EPS annual meeting 2022"
+    title: "EPS get2gether 2022"
     image_caption: "Azolla anzali"
-    excerpt: "At the Annual meeting Experimental Plant Sciences, I'll present some aspects of my PhD project. My slides are available online during the conference. Feel free to approach me at any time online or offline about the content of my talk. Partners & Passengers: endophytic microbes persistently present in the genus Azolla revealed by comparative metagenomics"
+    excerpt: "At the Annual EPS get2gether, I'll present some aspects of my PhD project. My slides are available online during the meeting. Feel free to approach me at any time online or offline about the content of my talk. Partners & Passengers: endophytic microbes persistently present in the genus Azolla revealed by comparative metagenomics"
     url: "/present/"
     btn_label: "Go to slides"
     btn_class: "btn--success"
@@ -89,6 +89,8 @@ feature_row_projects:
     btn_label: "Read more"
 
 ---
+
+{% include feature_row id="feature_row_present" type="right" %}
 
 {% include feature_row id="intro" type="center" %}
 
