@@ -245,13 +245,7 @@ Althans, dat concludeer ik uit de mindmaps zelf, die ik met toestemming
 van de studenten weer heb ingenomen en een exit enquête na afloop van de
 cursus ([Exit enquête IntroBioinfo maart
 2019](#exit-enquête-introbioinfo-maart-2019)).
-{: .text-justify}
-
-![](media/image78.png){width="5.579253062117235in"
-height="2.730774278215223in"}
-
-In [diezelfde enquête begin
-2019](#exit-enquête-introbioinfo-oktober-2020), nog voordat
+In [diezelfde enquête](#exit-enquête-introbioinfo-oktober-2020), nog voordat
 ik het coördinatorschap overnam, vroeg ik samen met een aantal
 mededocenten naar verbeterpunten voor de cursus als geheel en een aantal
 andere onderdelen. Hieruit kwam naar voren dat de studenten de cursus
@@ -265,18 +259,23 @@ verwante
 disciplines...](#iyc465i4zxtp).
 {: .text-justify}
 
+![](media/image78.png){width="5.579253062117235in"
+height="2.730774278215223in"}
+
+
 ![](media/image80.png){width="5.541035651793526in"
 height="2.7291666666666665in"}
 
 -   *'Every day another teacher and subject did not really make a logical connection between the subjects. Only some parts came back
  in some of the subjects but there was little connection. Sometimes I even thought that some days were pretty random, like the day about phylogenic trees.'*
 
-In mijn eigen cursus onderwees ik allerlei bioinformatica onderwerpen
-met als belangrijkste middel: computerpractica. De universitaire cocalc
-server bood een geweldig middel om studenten laagdrempelig kennis te
-laten maken met computercode zonder onder te doen voor wetenschappelijke
-inhoud van de oefeningen. Alle onderwerpen die ik van gastdocenten
-overnam, heb ik herschreven zodat deze in CoCalc werkte.
+Toen ik de coördinatie van IntroBioinfo overnam, kreeg ik ook de volledige verantwoordelijkheid over meer onderdelen van de cursus.
+Dit was bij uitstek het moment om een aantal onderdelen te vernieuwen en te stroomlijnen.
+Tijdens die overname, heb ik een aantal practica herschreven en geïmplementeerd in CoCalc.
+CoCalc is een dienst van de ICT Bèta, een webservice waar studenten code kunnen schrijven en uitproberen zonder zelf software te installeren.
+Via zogenaamde JuPyter notebooks leidde ik studenten door de stof.
+Cocalc bood een geweldig middel om studenten laagdrempelig kennis te laten maken met computercode zonder onder te doen voor wetenschappelijke inhoud van de oefeningen.
+Al die onderwerpen die ik van gastdocenten overnam, heb ik herschreven zodat deze in CoCalc werkte.
 {: .text-justify}
 
 Vakinhoudelijke kwaliteiten
@@ -475,21 +474,17 @@ bioinformatische analyse te doen in de context van een toekomstige stage
 of baan.
 {: .text-justify}
 
-In mijn korte bijdrage aan de curriculum committee van de nieuwe master
-'Bioinformatics and Biocomplexity' (CURC), zag ik vanuit
-vogelvluchtperspectief hoe de verschillende cursussen van die master aan
-elkaar relateerden. De CURC ontwierp de Master zodanig dat er ruimte was
-voor studenten met ofwel een achtergrond in modeleren, ofwel een
-achtergrond in bio informatica. Afhankelijke van hun achtergrond, volgde
-zij een adequaat vak aan het begin van het jaar om daarna op gelijke
-voet verder te gaan. De basis waarmee iedereen de master moest beginnen,
+In mijn korte bijdrage aan de curriculum committee van de nieuwe master 'Bioinformatics and Biocomplexity' (CURC), zag ik vanuit vogelvluchtperspectief hoe een Master werd opgebouwd.
+Het werk van de CURC leerde me te kijken naar de aansluiting van leerdoelen vande verschillende cursussen in een curriculum, naar de ingangseisen van een Master, en naar de keuzes die studenten kunnen maken binnen het curriculum.
+De CURC ontwierp de Master zodanig dat er ruimte was voor studenten met ofwel een achtergrond in modeleren, ofwel een achtergrond in bio informatica. 
+Afhankelijke van hun achtergrond, volgde zij een adequaat vak aan het begin van het jaar om daarna op gelijke voet verder te gaan. 
+De basis waarmee iedereen de master moest beginnen,
 werden ingedeeld in een Essentials cursus die parallel liep aan eerder
 genoemde cursussen. De stof van deze cursussen werd nauw afgestemd op de
 ingangseisen van de Master zelf. De werkzaamheden van de CURSUS leerde
-me ook hoe de diepgang en leerdoelen van een toegewijde Master
-verschillen van het keuzeprofiel voor alle andere 'life sciences' Master
-studenten. De cursus IntroBioinfo was immers de spil in het
-bioinformatica profiel.
+me ook hoe de diepgang en leerdoelen van een volledige bioinformatica Master
+verschillen van het bioinformatica keuzeprofiel voor alle andere 'life sciences' Master studenten. 
+De cursus IntroBioinfo was immers een spil in het bioinformatica profiel.
 {: .text-justify}
 
 Tijdens mijn deelname aan het Board of Studies (BoS) van de GS-LS was ik
@@ -664,11 +659,10 @@ bachelor. Die balans is elke keer weer zoeken geweest. Het ontlasten van
 tutoren van het nakijkwerk is mijns inziens een verstandige zet geweest
 omdat het de andere rollen in de weg kan zitten. Een moeilijkheid aan
 het tutoraat is de snelheid waarmee studenten na het eerste jaar het
-contact verliezen. Jaarlijks spreek ik niet meer dan een handvol
-tutoraat studenten, meestal over keuzes omtrent vakken en stages. Als
-tutor had ik daar zelf proactiever in kunnen zijn door studenten actief
-uit te nodigen voor een gesprek maar met volle to-do lijsten en een
-scala aan taken schiet dat er soms bij in.
+contact verliezen. 
+Ik bleef gedurende de bachelor, en in een enkel geval daarna, beschikbaar voor studenten maar ik zocht dat contact niet meer actief op.
+Jaarlijks wist een handvol tutoraatstudenten mij te vinden, meestal over keuzes omtrent vakken en stages.
+Als tutor had ik daar zelf proactiever in kunnen zijn door studenten actief uit te nodigen voor een gesprek, of te herinneren aan de mogelijkheid daartoe. 
 {: .text-justify}
 
 > *De universitair docent is in staat om studieopdrachten (bijvoorbeeld bachelorwerkstuk, onderzoekstage) effectief te begeleiden.*
@@ -678,7 +672,7 @@ hoofd- onderzoeker was destijds afwezig en meestal niet bereikbaar. De
 verantwoordelijkheid voor het reilen en zeilen van het lab kwam niet
 helemaal op mijn schouders, ik had één dag per week hulp van een
 oud-collega. Deze maanden kwam ook de verantwoordelijkheid voor het
-begeleiden van alle studenten grotendeels op mijn schouders terecht en
+begeleiden van alle studenten grotendeBels op mijn schouders terecht en
 had ik veel vrijheid om dat in te richten naar eigen idee. Ik leidde de
 eerder genoemde wekelijkse meetings met alle studenten en moedigde de
 studenten aan hun resultaten met elkaar te bespreken in plaats van
@@ -1047,18 +1041,17 @@ observeerde ik hoe enthousiaste studenten verward raakten door verkeerde
 verwachtingen en onduidelijkheid omtrent de cursus als geheel. BBE is in
 potentie een cursus met waardevolle kansen in een grote
 bacheloropleiding zoals intensieve persoonlijke begeleiding, praktische
-(lab)ervaring met open onderzoeksvragen en veel feedback op
-schrijfvaardigheid. Deze kansen werden soms niet benut door
-onduidelijkheid over verwachtingen en onderwijsvorm. Onrust en
-onduidelijkheid remden studenten in het werken aan open
-onderzoeksvragen. Mijn eigen pogingen om daarin duidelijkheid te
-scheppen, kwamen tekort of werkten averechts. Daaruit heb ik wel mijn
-les getrokken voor onderwijs wat ik zelf coördineerde. Ik koos voor
-beperkte maar duidelijke communicatie en verwachtingsmanagement richting
-studenten. In eerste instantie schriftelijk vooraf en vervolgens opnieuw
-tijdens het eerste college met ruim de tijd voor vragen. Die
-duidelijkheid schiep ruimte om tijdens de cursus informeler te handelen
-en dichterbij de studenten te staan.
+(lab)ervaring met open onderzoeksvragen en veel feedback op schrijfvaardigheid. 
+Deze kansen werden soms niet altijd volledig benut door onduidelijkheid over verwachtingen en onderwijsvorm. 
+De coördinatie van de cursus schoot in die zin tekort.
+Hoewel coördinatie niet mijn taak was, probeerde ik te helpen in de organisatie van de cursus om meer duidelijkheid te scheppen voor de studenten.
+Die pogingen kwamen echter tekort of werkten averechts.
+Daaruit heb ik wel mijn les getrokken over het belang van coördinatie.
+{: .text-justify}
+
+Voor onderwijs wat ik zelf coördineerde, koos ik voor beperkte maar duidelijke communicatie en verwachtingsmanagement richting studenten.
+In eerste instantie schriftelijk vooraf en vervolgens opnieuw tijdens het eerste college met ruim de tijd voor vragen.
+Die duidelijkheid schiep ruimte om tijdens de cursus informeler te handelen en dichterbij de studenten te staan.
 {: .text-justify}
 
 Uit [Caracal evaluatie IntroBioinfo oktober
@@ -1078,30 +1071,20 @@ height="1.5972222222222223in"}
 ![](media/image14.png){width="6.267716535433071in"
 height="1.6111111111111112in"}
 
-Geïnspireerd door goede en slechte voorbeelden uit mijn onderwijs
-ervaring ontwikkelde ik mijn eigen communicatiestrategie. Om de juiste
-verwachtingen te creëren licht ik de studenten ruim van te voren in over
-de onderwijsvormen, vereisten en examinering van mijn cursus. Eerst
-schriftelijk via een complete en duidelijke e-mail, daarna aan het begin
-van de IntroBioinfo cursus met een start-college. Mededocenten
-waardeerde de centrale organisatie vanuit mij en de lastenverlichting
-die dat voor hen met zich meebracht. De leerinspanning van studenten
-werd naar mijn idee minder bij betere organisatie, dat bleek onder
-andere uit de steeds snellere voortgang gedurende lessen en practica.
-Het belang van een duidelijke organisatie en verwachtingen werd nog
-groter tijdens de corona pandemie. Studenten kregen thuis via 3
-verschillende platformen onderwijs en toetsen aangeboden. Duidelijke
-communicatie via e-mail vooraf, schiep duidelijkheid tijdens de cursus
-met als gevolg dat e-mailverkeer en verwarring tijdens de cursus tot een
-minimum werd beperkt. Mijn methode was als volgt: de UBC e-learning (een
-moodle platform toegankelijk voor studenten van de UU, het UMCU en
-externe studenten) functioneerde als de cursus handleiding. Hier werd
-het rooster bijgehouden, vond men alle studiematerialen en kwamen wij
-bijeen voor interactieve colleges. Het tweede platform, CoCalc, werd
-gebruikt voor alle individuele opdrachten maar niet voor student-docent
-communicatie. En als derde: MS Teams. Voor thuisonderwijs verdeelde ik
-de groep studenten in kleine groepen voor onderlinge vragen en moedigde
-hen aan om ook elkaar wat beter te leren kennen.
+Geïnspireerd door goede en slechte voorbeelden uit mijn onderwijs ervaring ontwikkelde ik mijn eigen communicatiestrategie.
+Om de juiste verwachtingen te creëren licht ik de studenten ruim van te voren in over de onderwijsvormen, vereisten en examinering van mijn cursus.
+Eerst schriftelijk via een complete en duidelijke e-mail, daarna aan het begin van de IntroBioinfo cursus met een start-college.
+Mededocenten waardeerde de centrale organisatie vanuit mij en de lastenverlichting die dat voor hen met zich meebracht.
+Naar eigen inschatting besteedde studenten hun tijd effectiever bij betere organisatie. 
+Dat bleek onder andere uit de steeds snellere voortgang gedurende lessen en practica.
+Het belang van een duidelijke organisatie en verwachtingen werd nog groter tijdens de corona pandemie.
+Studenten kregen thuis via 3 verschillende platformen onderwijs en toetsen aangeboden.
+Duidelijke communicatie via e-mail vooraf, schiep duidelijkheid tijdens de cursus met als gevolg dat e-mailverkeer en verwarring tijdens de cursus tot een minimum werd beperkt.
+Mijn methode was als volgt: de UBC e-learning (een moodle platform toegankelijk voor studenten van de UU, het UMCU en externe studenten) functioneerde als de cursus handleiding.
+Hier werd het rooster bijgehouden, vond men alle studiematerialen en kwamen wij bijeen voor interactieve colleges.
+Het tweede platform, CoCalc, werd gebruikt voor alle individuele opdrachten maar niet voor student-docent communicatie.
+En als derde: MS Teams.
+Voor thuisonderwijs verdeelde ik de groep studenten in kleine groepen voor onderlinge vragen en moedigde hen aan om ook elkaar wat beter te leren kennen.
 {: .text-justify}
 
 Visie op universitair onderwijs
@@ -1166,7 +1149,7 @@ maatschappelijke debatten.
 ## Goed voorbeeld doet volgen
 Als WO dragen wij maatschappelijke verantwoordelijkheid, bijvoorbeeld in
 de eerder genoemde kwesties. Niet in de minste zin omdat wij zelf als
-onderzoekers bijdragen aan het oplossen deze vraagstukken. Als
+onderzoekers bijdragen aan het oplossen van deze vraagstukken. Als
 onderzoekers zijn wij bekend met de meest recente ontwikkelingen en die
 kunnen wij toepassen in ons onderwijs. Naast gedegen onderwijs, is het
 ook aan ons om een goed voorbeeld te zijn voor onze studenten. Goed
@@ -1182,7 +1165,7 @@ uitgewerkte voorbeelden:
 [lauradijkhuizen.com/metagenomicspractical](http://www.lauradijkhuizen.com/metagenomicspractical).
 Mijn youtube video's over bio informatica, alhoewel alles behalve
 gelikt, worden regelmatig bekeken voor zelfstudie door mensen over de
-hele wereld. In totaal zijn ze meer dan 9500 maar bekeken; het is een
+hele wereld. In totaal zijn ze meer dan 9500 maal bekeken; het is een
 ander soort 'impact' dan we gewend zijn, maar desalniettemin een
 bijdrage op zichzelf. Ik heb ook de vruchten mogen plukken van de open
 science mentaliteit. Ik heb me voor mijn cursus laten inspireren door
@@ -1207,7 +1190,7 @@ vakkenpakketten vraagt extra aandacht van een docent. De docent moet
 rekening houden met de variatie in voorkennis van studenten en draagt
 zorg voor een goede aansluiting op de rest van de opleiding. Toenemende
 populariteit van de Bachelor en Masters brengen een hoge werkdruk mee
-voor de docenten bij biologie en aanverwante departementen. Ik zie die
+voor de docenten bij Biologie en aanverwante departementen. Ik zie die
 geleidelijke overgang naar praktisch werk, vooral in de Master, als iets
 waardevols en unieks wat wij in Utrecht aanbieden en als iets wat we
 moeten bewaken. Bij de toenemende vraag naar biologisch onderwijs is er
@@ -1335,6 +1318,6 @@ bedank ik alle studenten die ik heb mogen onderwijzen, en specifiek alle
 studenten van wie ik feedback heb mogen ontvangen. Als junior docent is
 die aanmoediging en sturing enorm waardevol geweest. Tot slot bedank ik
 allen die mij hebben geholpen en geadviseerd in mijn BKO, specifiek Dr.
-Margot Koster en de examencommissie. Bedankt voor het doorlezen van mijn
+Margot Koster en de BKO-commissie. Bedankt voor het doorlezen van mijn
 reflecties.
 {: .text-justify}
