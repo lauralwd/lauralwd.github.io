@@ -90,8 +90,6 @@ feature_row_projects:
 
 ---
 
-{% include feature_row id="feature_row_present" type="right" %}
-
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row_about" type="left" %}
