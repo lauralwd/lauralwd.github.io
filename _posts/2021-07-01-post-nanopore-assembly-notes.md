@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
   - technology
-tags:
+tags:then 
   - blog
   - technology
   - bioinformatics
@@ -118,7 +118,8 @@ minimap2 <...minimap2-index...>                \
          | samtools view -@ 6 -b               \
          > <...output.bamfile.bam...>
 ```
-Then sort the bamfile, and select or discard reads mapping to your contigs of interest with `samtools`.
+Then sort and index the bamfile with a tool of your choice (for example `samtools sort` and `samtools index`).
+From this sorted bamfile, we can select or discard reads mapping to your contigs of interest with `samtools view`.
 Such a command could look like this:
 
 ```
