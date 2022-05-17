@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
   - technology
-tags:then 
+tags:
   - blog
   - technology
   - bioinformatics
