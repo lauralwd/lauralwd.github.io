@@ -125,7 +125,7 @@ Such a command could look like this:
 samtools view -h <...your.bamfile...> '<...your.region...>' \
 | samtools fastq                                            \
 | nice pigz --best -p $(nproc)                              \
-> <...yourselection.fasta.gz...>
+> <...yourselection.fastq.gz...>
 ```
 In the command above we 
 1. select hits from a bam file mapping to a specific region
