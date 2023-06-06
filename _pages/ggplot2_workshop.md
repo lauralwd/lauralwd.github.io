@@ -7,7 +7,8 @@ taxonomy: ggplot2
 entries_layout: grid
 ---
 
-# GGplot2 workshop at the 2023 NVT meeting
+Welcome to the workshop! Get yourself a copy of the slides and the R markdown script. 
+Then, check if you have the required packages installed (first code block in the R markdown script).
 
 The slides are available here: [pdf](https://laummy.duckdns.org:8099/s/YnxpLk5B2jiYSk7).
 
