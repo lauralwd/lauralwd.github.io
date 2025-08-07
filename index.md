@@ -25,7 +25,7 @@ feature_row_about:
     alt: "Laura Dijkhuizen, young academic/scientist at Utrecht University"
     title: "About me"
     image_caption: "Yours truly"
-    excerpt: "Welcome to my portfolio page. excerpt: "Hi there! I’m Laura -- a bioinformatics trainer and data‐driven researcher passionate about plant symbiosis and reproducible science. Here you’ll find my R&D projects, teaching materials, and outreach highlights. Feel free to explore and drop me a line if you’d like to collaborate or learn more!"
+    excerpt: "Hi there! I’m Laura -- a bioinformatics trainer and data‐driven researcher passionate about plant symbiosis and reproducible science. Here you’ll find my R&D projects, teaching materials, and outreach highlights. Feel free to explore and drop me a line if you’d like to collaborate or learn more!"
     url: "/about/"
     btn_label: "Read more about me"
     btn_class: "btn--info"
