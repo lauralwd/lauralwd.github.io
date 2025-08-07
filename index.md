@@ -1,5 +1,3 @@
----
-# You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
@@ -26,7 +24,7 @@ feature_row_about:
     alt: "Laura Dijkhuizen, young academic/scientist at Utrecht University"
     title: "About me"
     image_caption: "Yours truly"
-    excerpt: "Welcome to my portfolio page. I'm a PhD candidate at Utrecht University where I study the metagenome of the fabulous fern _Azolla_! On this page, I keep track of my academic projects and some personal ones too. Have a look around, and be sure to contact me via social media or e-mail if you are curious about anything at all."
+    excerpt: "Welcome to my portfolio page. excerpt: "Hi there! I’m Laura -- a bioinformatics trainer and data‐driven researcher passionate about plant symbiosis and reproducible science. Here you’ll find my R&D projects, teaching materials, and outreach highlights. Feel free to explore and drop me a line if you’d like to collaborate or learn more!"
     url: "/about/"
     btn_label: "Read more about me"
     btn_class: "btn--info"
