@@ -86,6 +86,14 @@ feature_row_projects:
     url: "/technology/"
     btn_class: "btn--info"
     btn_label: "Read more"
+  - image_path: assets/images/CV_snapshot.jpg
+    image_caption: "My latest CV"
+    alt: "Download my latest CV here"
+    title: "Latest Curriculum Vitae"
+    excerpt: "Like a true nerd, my CV is versioned and rendered via GitHub actions. Download it here!"
+    url: "/CV_generator/cv.pdf"
+    btn_class: "btn--success"
+    btn_label: "Download CV"
 
 ---
 
