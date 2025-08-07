@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Laura Dijkhuizen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD candidate at Utrecht University. Working on plant biology & metagenomics of Azolla ferns and their symbiosis with cyanobacteria"
+  bio    : "Data analysis professional and educator specialised in plant genomics"
   links:
     - label: "Utrecht University page"
       icon: "fas fa-fw fa-university"
