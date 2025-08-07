@@ -91,7 +91,7 @@ feature_row_projects:
     alt: "Download my latest CV here"
     title: "Latest Curriculum Vitae"
     excerpt: "Like a true nerd, my CV is versioned and rendered via GitHub actions. Download it here! And fellow-nerds can find the source code [here](https://github.com/lauralwd/CV_generator)"
-    url: "/CV_generator/cv.pdf"
+    url: "/CV_generator/"
     btn_class: "btn--success"
     btn_label: "Download CV"
 

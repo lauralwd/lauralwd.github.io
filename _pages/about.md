@@ -55,6 +55,6 @@ Some weekend, it's good to take it easy, in which case you can find me in our lo
 
 # CV
 
-More details, download my [Latest CV](https://lauralwd.github.io/CV_generator/){: .btn .btn--success} or have a look at [the source code on GitHub](https://github.com/lauralwd/CV_generator).
+More details, download my [Latest CV](https://lauralwd.github.io/CV_generator/){: .btn .btn--success} or have a look at [the source code on GitHub](https://github.com/lauralwd/CV_generator/).
 
 
