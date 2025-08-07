@@ -10,7 +10,7 @@ gallery-rocket:
     image_path: /assets/photography/fg-esa-800x800.jpg
 classes: "wide"
 ---
-_Data & analytics educator specialising on young professionals and plant biology specialist with a predisposition for symbioses_
+> _Data & analytics educator specialising on young professionals and plant biology specialist with a predisposition for symbioses_
 
 Welcome again to my portfolio page!
 I'm Laura, passionate about plant biology and making complex science accessible.
@@ -20,11 +20,11 @@ I thrive in autonomous, mission driven teams.
 
 # Education & Employment
 
-* Lecturer and Trainer _at Utrecht University_
-* PhD Researcher and junior teacher _at Utrecht University_
-* MSc 2017 Environmental Biology _at Utrecht University_
-* BSc 2014 Biological Sciences _at Utrecht University_
-* BSc discontinued Applied Physics _at Twente University_
+* **Lecturer and Trainer** _at Utrecht University_
+* **PhD Researcher** and junior teacher _at Utrecht University_
+* **MSc** 2017 Environmental Biology _at Utrecht University_
+* **BSc** 2014 Biological Sciences _at Utrecht University_
+* **BSc** discontinued Applied Physics _at Twente University_
 
 # Professional Highlights
 
@@ -43,23 +43,18 @@ I usually photograph the city of Utrecht, just because it's so photogenic and we
 Find out more on [Instagram](https://instagram.com/laura_in_utrecht) or go to my photography page via the button below.
 Additionally, I like shooting landscapes and macros of plants.
 Most of the photos here are made by myself, and most photo's of me are made by my lovely girlfriend with whom I share this fun hobby.
-Some example pictures are available here: [photography](/photography/){: .btn .btn--info}
+Some example pictures are available here: 
 {: .text-justify}
+[photography](/photography/){: .btn .btn--info}
+
 
 Besides photography, you can find my climbing or bouldering every week and in the summer I love sailing on the family's traditional Dutch sailing boat.
 Some weekend, it's good to take it easy, in which case you can find me in our lovely garden tending to the plants.
 {: .text-justify}
 
-# Awards
-
-### Ambassadorship of Biology
-
-For my plans to study seagrass in Sweden, the Utrecht Biologists (students) Society granted me the 'ambassadorship of biology' award.
-{: .text-justify}
-![](https://ubv.info/wp-content/uploads/2016/04/Ambassadeur-van-de-biologie-2016-672x372.jpg)
 
 # CV
 
-More details, find my latest [CV here](https://lauralwd.github.io/CV_generator/cv.pdf)
+More details, download my [Latest CV](https://lauralwd.github.io/CV_generator/cv.pdf){: .btn btn--success}
 
 
