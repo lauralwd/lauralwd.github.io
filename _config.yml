@@ -31,10 +31,10 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-DYW605XPMV"
+#analytics:
+#  provider: "google-gtag"
+#  google:
+#    tracking_id: "G-DYW605XPMV"
 
 include:
   - _pages
